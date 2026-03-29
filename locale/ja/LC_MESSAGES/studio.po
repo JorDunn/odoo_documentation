@@ -2,6 +2,7 @@
 # Copyright (C) Odoo S.A.
 # This file is distributed under the same license as the Odoo package.
 # "Junko Augias (juau)" <juau@odoo.com>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 #
 # Translators:
 # Wil Odoo, 2025
@@ -11,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-17 08:58+0000\n"
-"PO-Revision-Date: 2025-10-03 14:00+0000\n"
-"Last-Translator: \"Junko Augias (juau)\" <juau@odoo.com>\n"
+"POT-Creation-Date: 2025-12-19 18:31+0000\n"
+"PO-Revision-Date: 2025-11-18 20:10+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Japanese <https://translate.odoo.com/projects/odoo-18-doc/"
 "studio/ja/>\n"
 "Language: ja\n"
@@ -93,18 +94,24 @@ msgid ""
 "**For yearly or multi-year contracts**: An upsell order is created with a 30-"
 "day limit."
 msgstr ""
+"**年間契約または複数年契約の場合** :アップセル注文が作成され、その有効期限は"
+"30日間です。"
 
 #: ../../content/applications/studio.rst:45
 msgid ""
 "**For monthly contracts**: The subscription automatically switches to the "
 "*Custom* plan and the new rate is applied when the next bill is generated."
 msgstr ""
+"月額契約の場合:サブスクリプションは自動的にカスタムプランへ切り替わり、次回の"
+"請求時に新しい料金が適用されます。"
 
 #: ../../content/applications/studio.rst:48
 msgid ""
 "For more information, refer to `Odoo's pricing page <https://www.odoo.com/"
 "pricing-plan>`_ or contact your account manager."
 msgstr ""
+"詳しくは `Odooの料金ページ <https://www.odoo.com/pricing-plan>`_ をご覧いただ"
+"くか、アカウントマネジャーあてにお問い合わせください。"
 
 #: ../../content/applications/studio.rst:52
 msgid "`Odoo Tutorials: Studio <https://www.odoo.com/slides/studio-31>`_"
@@ -226,7 +233,7 @@ msgid ""
 "icon reveals the step(s)."
 msgstr ""
 
-#: ../../content/applications/studio/approval_rules.rst:-1
+#: ../../content/applications/studio/approval_rules.rst:None
 msgid "Confirm button with two approval steps"
 msgstr ""
 
@@ -630,7 +637,7 @@ msgid ""
 msgstr ""
 
 #: ../../content/applications/studio/automated_actions.rst:0
-#: ../../content/applications/studio/automated_actions.rst:-1
+#: ../../content/applications/studio/automated_actions.rst:None
 msgid "Example of a Based on date field trigger"
 msgstr ""
 
@@ -1135,8 +1142,8 @@ msgstr ""
 #: ../../content/applications/studio/automated_actions/webhooks.rst:38
 msgid ""
 "Before implementing a webhook in a live database, configure and test it "
-"using a :ref:`duplicate database <odoo_online/database-management>` to "
-"ensure the webhook performs as intended."
+"using a :ref:`duplicate database <odoo-online/duplicate>` to ensure the "
+"webhook performs as intended."
 msgstr ""
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:42
@@ -2857,7 +2864,7 @@ msgstr ""
 msgid "Click the :guilabel:`Export` button to download the ZIP file."
 msgstr ""
 
-#: ../../content/applications/studio/models_modules_apps.rst:-1
+#: ../../content/applications/studio/models_modules_apps.rst:None
 msgid "Choosing to export both data and demo data"
 msgstr ""
 
@@ -3260,7 +3267,7 @@ msgid ""
 "conditions. Click on the block to view the conditions."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "View conditions applied to a block."
 msgstr ""
 
@@ -3269,7 +3276,7 @@ msgid ""
 "Select a value to preview its corresponding output and edit it if necessary."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Preview the output of another condition."
 msgstr ""
 
@@ -3331,7 +3338,7 @@ msgid ""
 "in the record and press `Enter`."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Select a related field."
 msgstr "関連するフィールドを選択します。"
 
@@ -3386,7 +3393,7 @@ msgid ""
 "click the purple rectangle and select an option."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available options for editing table structure."
 msgstr ""
 
@@ -3452,7 +3459,7 @@ msgid ""
 "Lines* model) and the list of available fields."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available fields for the sale order lines model."
 msgstr ""
 

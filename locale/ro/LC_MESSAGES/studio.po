@@ -6,6 +6,7 @@
 # Wil Odoo, 2025
 # Larisa_nexterp, 2025
 # Fekete Mihai <feketemihai@nexterp.ro>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 #
 # Translators:
 # Emanuel Bruda, 2024
@@ -15,9 +16,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-17 08:58+0000\n"
-"PO-Revision-Date: 2025-09-10 20:06+0000\n"
-"Last-Translator: Fekete Mihai <feketemihai@nexterp.ro>\n"
+"POT-Creation-Date: 2025-12-19 18:31+0000\n"
+"PO-Revision-Date: 2025-11-18 20:10+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Romanian <https://translate.odoo.com/projects/odoo-18-doc/"
 "studio/ro/>\n"
 "Language: ro\n"
@@ -102,18 +103,25 @@ msgid ""
 "**For yearly or multi-year contracts**: An upsell order is created with a 30-"
 "day limit."
 msgstr ""
+"**Pentru contractele anuale sau multianuale**: O comandă de actualizare este "
+"creată cu o limită de 30 de zile."
 
 #: ../../content/applications/studio.rst:45
 msgid ""
 "**For monthly contracts**: The subscription automatically switches to the "
 "*Custom* plan and the new rate is applied when the next bill is generated."
 msgstr ""
+"**Pentru contractele lunare**: Abonamentul comută automat la planul "
+"*Personalizat* și noua rată este aplicată când următoarea factură este "
+"generată."
 
 #: ../../content/applications/studio.rst:48
 msgid ""
 "For more information, refer to `Odoo's pricing page <https://www.odoo.com/"
 "pricing-plan>`_ or contact your account manager."
 msgstr ""
+"Pentru mai multe informații, consultați `pagina de prețuri Odoo <https://"
+"www.odoo.com/pricing-plan>`_ sau contactați managerul dvs. de cont."
 
 #: ../../content/applications/studio.rst:52
 msgid "`Odoo Tutorials: Studio <https://www.odoo.com/slides/studio-31>`_"
@@ -272,7 +280,7 @@ msgstr ""
 "**avatar utilizator** este afișată lângă eticheta butonului pentru fiecare "
 "pas de aprobare. Făcând clic pe pictogramă se afișează pașii."
 
-#: ../../content/applications/studio/approval_rules.rst:-1
+#: ../../content/applications/studio/approval_rules.rst:None
 msgid "Confirm button with two approval steps"
 msgstr "Butonul Confirmă cu doi pași de aprobare"
 
@@ -715,7 +723,7 @@ msgid ""
 msgstr ""
 
 #: ../../content/applications/studio/automated_actions.rst:0
-#: ../../content/applications/studio/automated_actions.rst:-1
+#: ../../content/applications/studio/automated_actions.rst:None
 msgid "Example of a Based on date field trigger"
 msgstr "Exemplu de declanșator Bazat pe câmp de dată"
 
@@ -1315,8 +1323,8 @@ msgstr ""
 #: ../../content/applications/studio/automated_actions/webhooks.rst:38
 msgid ""
 "Before implementing a webhook in a live database, configure and test it "
-"using a :ref:`duplicate database <odoo_online/database-management>` to "
-"ensure the webhook performs as intended."
+"using a :ref:`duplicate database <odoo-online/duplicate>` to ensure the "
+"webhook performs as intended."
 msgstr ""
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:42
@@ -1477,7 +1485,7 @@ msgstr ""
 #: ../../content/applications/studio/automated_actions/webhooks.rst:206
 #: ../../content/applications/studio/automated_actions/webhooks.rst:281
 msgid "Click :guilabel:`Send`."
-msgstr ""
+msgstr "Faceți clic pe :guilabel:`Trimite`."
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:117
 msgid ""
@@ -3505,7 +3513,7 @@ msgstr ""
 msgid "Click the :guilabel:`Export` button to download the ZIP file."
 msgstr "Apasă butonul :guilabel:`Export` pentru a descărca fișierul ZIP."
 
-#: ../../content/applications/studio/models_modules_apps.rst:-1
+#: ../../content/applications/studio/models_modules_apps.rst:None
 msgid "Choosing to export both data and demo data"
 msgstr "Alegerea exportului atât a datelor, cât și a datelor demo"
 
@@ -4030,7 +4038,7 @@ msgstr ""
 "*if/else*). Acestea sunt folosite pentru a afișa/ascunde conținutul în "
 "funcție de condiții specifice. Faceți clic pe bloc pentru a vedea condițiile."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "View conditions applied to a block."
 msgstr "Vizualizați condițiile aplicate unui bloc."
 
@@ -4041,7 +4049,7 @@ msgstr ""
 "Selectați o valoare pentru a previzualiza rezultatul corespunzător și "
 "editați-o dacă este necesar."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Preview the output of another condition."
 msgstr "Previzualizează rezultatul unei alte condiții."
 
@@ -4122,7 +4130,7 @@ msgstr ""
 "care va fi afișată dacă câmpul nu este completat în înregistrare și apasă "
 "`Enter`."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Select a related field."
 msgstr "Selectați un câmp aferent."
 
@@ -4196,7 +4204,7 @@ msgstr ""
 "tabele. Poziționează cursorul deasupra coloanei sau în stânga rândului, apoi "
 "apasă pe dreptunghiul mov și selectează o opțiune."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available options for editing table structure."
 msgstr "Listă de opțiuni disponibile pentru editarea structurii tabelului."
 
@@ -4288,7 +4296,7 @@ msgstr ""
 "care se deschide arată obiectul sursă pentru câmp (de exemplu, modelul "
 "*Order Lines*) și lista câmpurilor disponibile."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available fields for the sale order lines model."
 msgstr ""
 "Listă de câmpuri disponibile pentru modelul de linii de comandă de vânzare."

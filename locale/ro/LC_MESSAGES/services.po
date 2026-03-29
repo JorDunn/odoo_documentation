@@ -6,6 +6,7 @@
 # Wil Odoo, 2025
 # Larisa_nexterp, 2025
 # Fekete Mihai <feketemihai@nexterp.ro>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 #
 # Translators:
 # Dragos Vasile, 2024
@@ -15,9 +16,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-17 08:58+0000\n"
-"PO-Revision-Date: 2025-09-10 20:06+0000\n"
-"Last-Translator: Fekete Mihai <feketemihai@nexterp.ro>\n"
+"POT-Creation-Date: 2026-01-29 18:30+0000\n"
+"PO-Revision-Date: 2025-11-17 20:10+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Romanian <https://translate.odoo.com/projects/odoo-18-doc/"
 "services/ro/>\n"
 "Language: ro\n"
@@ -346,6 +347,7 @@ msgstr ":doc:`../../inventory_and_mrp/inventory`"
 #: ../../content/applications/services/project/tasks/recurring_tasks.rst:13
 #: ../../content/applications/services/timesheets/billing_rates.rst:19
 #: ../../content/applications/services/timesheets/billing_rates.rst:54
+#: ../../content/applications/services/timesheets/time_off.rst:12
 msgid "Configuration"
 msgstr "Configurare"
 
@@ -412,7 +414,7 @@ msgstr ""
 "fila :guilabel:`Preferințe`. Derulați la :guilabel:`Inventar` și selectați "
 "depozitul implicit din lista derulantă."
 
-#: ../../content/applications/services/field_service/product_management.rst:-1
+#: ../../content/applications/services/field_service/product_management.rst:None
 msgid "Selection of a default warehouse on a user profile."
 msgstr "Selectarea unui depozit implicit pe profilul unui utilizator."
 
@@ -560,7 +562,7 @@ msgstr ""
 "când treceți mouse-ul peste câmpul :guilabel:`Proiect` din formularul de "
 "activitate."
 
-#: ../../content/applications/services/field_service/worksheets.rst:-1
+#: ../../content/applications/services/field_service/worksheets.rst:None
 msgid "Mouse on project name to setup default worksheet template"
 msgstr ""
 "Mouse-ul pe numele proiectului pentru a configura șablonul implicit de foaie "
@@ -640,7 +642,7 @@ msgstr ""
 "Helpdesk`. Pentru a crea o echipă nouă, apasă butonul :guilabel:`Nou` din "
 "stânga sus a tabloului de bord."
 
-#: ../../content/applications/services/helpdesk.rst:-1
+#: ../../content/applications/services/helpdesk.rst:None
 msgid "View of the Helpdesk teams page in Odoo Helpdesk."
 msgstr "Vizualizarea paginii echipelor Helpdesk din Odoo Helpdesk."
 
@@ -815,7 +817,7 @@ msgstr ""
 "prin :guilabel:`Atribuire automată`. Bifează opțiunea :guilabel:`Atribuire "
 "automată` pentru a activa această funcție pentru echipă."
 
-#: ../../content/applications/services/helpdesk.rst:-1
+#: ../../content/applications/services/helpdesk.rst:None
 msgid ""
 "View of a Helpdesk team settings page emphasizing the automatic assignment "
 "features in Odoo\n"
@@ -1023,7 +1025,7 @@ msgstr ""
 ":guilabel:`Echipă de vânzări`: Specifică echipa de vânzări și agentul de "
 "vânzări căruia îi este atribuită oportunitatea creată."
 
-#: ../../content/applications/services/helpdesk.rst:-1
+#: ../../content/applications/services/helpdesk.rst:None
 msgid "The convert to opportunity pop-up window."
 msgstr "Fereastra pop-up pentru conversia în oportunitate."
 
@@ -1192,7 +1194,7 @@ msgstr ""
 "butonul :guilabel:`Rambursare` din colțul din stânga sus al formularului de "
 "bilet. Aceasta deschide o fereastră pop-up :guilabel:`Rambursare`."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of a refund creation page."
 msgstr "Vizualizarea unei pagini de creare a rambursării."
 
@@ -1307,7 +1309,7 @@ msgstr ""
 "După ce nota de credit a fost validată, pe tichetul **Helpdesk** apare un "
 "buton inteligent :guilabel:`Note de credit`."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of smart buttons on a ticket focusing on the credit note button."
 msgstr ""
 "Vedere a butoanelor inteligente de pe un bilet, concentrându-se pe butonul "
@@ -1352,7 +1354,7 @@ msgstr ""
 "lista derulantă :guilabel:`Program de cupoane` din fereastra pop-"
 "up :guilabel:`Generează un cupon` care apare."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of a coupon generation window."
 msgstr "Vedere a unei ferestre de generare a cuponului."
 
@@ -1426,7 +1428,7 @@ msgstr ""
 "faceți clic pe butonul inteligent pentru a vedea codul cuponului, data de "
 "expirare și informații suplimentare."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of the smart buttons on a ticket focusing on the coupon button."
 msgstr ""
 "Vedere a butoanelor inteligente de pe un bilet concentrându-se pe butonul "
@@ -1456,7 +1458,7 @@ msgstr ""
 "butonul :guilabel:`Retur` din partea de sus a tichetului pentru a deschide "
 "fereastra pop-up :guilabel:`Retur`."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of a Helpdesk ticket with the return button highlighted."
 msgstr ""
 "Vedere a unui bilet de serviciu de asistență cu butonul de întoarcere "
@@ -1497,7 +1499,7 @@ msgstr ""
 "Selectați o :guilabel:`Locație de returnare` unde articolele ar trebui să "
 "fie direcționate după finalizarea returnării."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of a reverse transfer creation page."
 msgstr "Vedere a unei pagini de creare a transferului invers."
 
@@ -1529,7 +1531,7 @@ msgstr ""
 "inteligent :guilabel:`Return` poate fi acum accesat în partea de sus a "
 "biletului."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of the return smart button on a helpdesk ticket."
 msgstr ""
 "Vedere a butonului inteligent de retur de pe un bilet de serviciu de "
@@ -1564,7 +1566,7 @@ msgstr ""
 "din colțul din stânga sus. Aceasta deschide un formular :guilabel:`Referință "
 "de reparație`."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of a repair reference page."
 msgstr "Vedere a unei pagini de referință pentru reparații."
 
@@ -1664,7 +1666,7 @@ msgstr ""
 "Un buton inteligent :guilabel:`Repairs` este apoi adăugat la bilet, care "
 "face legătura cu ordinul de reparație."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of smart buttons focusing on repair button."
 msgstr ""
 "Vedere a butoanelor inteligente care se concentrează pe butonul de reparare."
@@ -1721,7 +1723,7 @@ msgstr ""
 "pentru a deschide fereastra pop-up :guilabel:`Creează o sarcină Field "
 "Service`."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of a Field Service task creation page."
 msgstr "Vedere a unei pagini de creare a sarcinilor Field Service."
 
@@ -1796,7 +1798,7 @@ msgstr ""
 "După ce sarcina este creată, un buton inteligent :guilabel:`Tasks` este "
 "adăugat la bilet, legând sarcina :guilabel:`Field Service` de bilet."
 
-#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/after_sales.rst:None
 msgid "View of ticket smart buttons focused on task."
 msgstr ""
 "Vizualizarea butoanelor inteligente ale biletelor concentrate pe sarcină."
@@ -1858,7 +1860,7 @@ msgstr ""
 "gear` :guilabel:`(rotiță)` care apare în colțul din dreapta sus al coloanei "
 "Kanban a acelei etape."
 
-#: ../../content/applications/services/helpdesk/advanced/close_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/close_tickets.rst:None
 msgid ""
 "View of stage on Helpdesk pipeline with emphasis on gear icon and edit stage "
 "option."
@@ -2047,7 +2049,7 @@ msgstr ""
 "la secțiunea :guilabel:`Self-Service` și bifează "
 "opțiunea :guilabel:`Închidere de către clienți`."
 
-#: ../../content/applications/services/helpdesk/advanced/close_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/close_tickets.rst:None
 msgid "Customer closing setting in Odoo Helpdesk."
 msgstr "Setarea de închidere a clienților în Odoo Helpdesk."
 
@@ -2061,7 +2063,7 @@ msgstr ""
 "un buton :guilabel:`Închide tichet` atunci când accesează tichetul prin "
 "portalul de clienți."
 
-#: ../../content/applications/services/helpdesk/advanced/close_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/close_tickets.rst:None
 msgid "Customer view of ticket closing in Odoo Helpdesk."
 msgstr "Vizualizarea clientului despre închiderea biletelor în Odoo Helpdesk."
 
@@ -2205,7 +2207,7 @@ msgstr ""
 "pentru proiect, apoi faceți clic pe :guilabel:`Creare` din meniul drop-down "
 "de mai jos."
 
-#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:None
 msgid ""
 "View of a helpdesk team settings page emphasizing the track and bill time "
 "settings."
@@ -2249,7 +2251,7 @@ msgstr ""
 "Timesheets`. Efectuați orice modificări necesare în înregistrarea "
 "produsului, cum ar fi :guilabel:`Cost` sau :guilabel:`Prețul de vânzare`."
 
-#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:None
 msgid ""
 "View of a service product with the invoicing policy set to 'Based on "
 "timesheets'."
@@ -2292,7 +2294,7 @@ msgstr ""
 "primită pentru acest produs înainte ca orice înregistrări de pontaj să fie "
 "înregistrate pentru aceste servicii."
 
-#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:None
 msgid ""
 "View of a service product with the invoicing policy set to 'prepaid/fixed'."
 msgstr ""
@@ -2471,7 +2473,7 @@ msgstr ""
 "câmpul :guilabel:`Ore rămase pe SO`, din colțul din dreapta jos al filei, "
 "este actualizat automat."
 
-#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:None
 msgid ""
 "View of the timesheets tab on a ticket with an emphasis on the remaining "
 "hours on an SO."
@@ -2632,7 +2634,7 @@ msgid "Repeat these steps until all timesheet entries have been recorded."
 msgstr ""
 "Repetă acești pași până când toate înregistrările de pontaj au fost adăugate."
 
-#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:None
 msgid "View of the timesheets tab on a helpdesk ticket."
 msgstr "Vedere a filei foi de pontaj pe un bilet de serviciu de asistență."
 
@@ -2667,7 +2669,7 @@ msgstr ""
 "coloana :guilabel:`Livrate` se potrivește cu numărul total de :guilabel:`Ore "
 "petrecute` enumerate în fila :guilabel:`Foile de pontaj` de pe bilet."
 
-#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:-1
+#: ../../content/applications/services/helpdesk/advanced/track_and_bill.rst:None
 msgid "View of a sales order with emphasis on the delivered column."
 msgstr "Vedere a unei comenzi de vânzare cu accent pe coloana livrate."
 
@@ -2741,7 +2743,7 @@ msgstr ""
 "este un loc centralizat unde echipele și clienții pot căuta și partaja "
 "informații detaliate despre produse și servicii."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid ""
 "Overview of the settings page of a team emphasizing the Help Center features."
 msgstr ""
@@ -2962,7 +2964,7 @@ msgstr ""
 "Faceți clic pe pictograma :guilabel:`Cunoștințe (marcaj)`, situată în partea "
 "din dreapta sus a paginii, pentru a deschide o fereastră de căutare pop-up."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid "View of knowledge search window from a helpdesk ticket."
 msgstr ""
 "Vedere a ferestrei de căutare a cunoștințelor dintr-un bilet de serviciu de "
@@ -3038,7 +3040,7 @@ msgstr ""
 "va deschide un meniu. Activează comutatorul :guilabel:`Partajează pe web` "
 "până apare :guilabel:`Articol publicat`."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid "View of a knowledge article focused on sharing and publishing options."
 msgstr ""
 "Vedere a unui articol de cunoștințe axat pe opțiunile de partajare și "
@@ -3088,7 +3090,7 @@ msgstr ""
 "tastează :kbd:`clipboard`. Un bloc gri va fi adăugat pe pagină. Adaugă "
 "conținutul necesar în acest bloc."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid "View of a clipboard in knowledge with focus on send and copy options."
 msgstr ""
 "Vedere a unui clipboard în cunoștințe, cu accent pe opțiunile de trimitere "
@@ -3282,7 +3284,7 @@ msgstr ""
 "În partea de sus a formularului de detalii ale biletului, faceți clic pe "
 "butonul :guilabel:`Partajați pe forum`."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid ""
 "Overview of the Forums page of a website to show the available ones in Odoo "
 "Helpdesk."
@@ -3334,7 +3336,7 @@ msgstr ""
 "pictograma :icon:`fa-ellipsis-h` :guilabel:`(trei puncte)`. Apoi "
 "apasă :guilabel:`Creează tichet`."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid "A forum post with the create ticket option visible."
 msgstr "O postare pe forum cu opțiunea de creare tichet vizibilă."
 
@@ -3494,7 +3496,7 @@ msgstr ""
 "pe :guilabel:`Salvați` când ați terminat. Faceți clic pe :guilabel:`Add "
 "Section` pentru a organiza cursul pe secțiuni."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid "View of a course being published for Odoo Helpdesk."
 msgstr "Vedere a unui curs publicat pentru Odoo Helpdesk."
 
@@ -3628,7 +3630,7 @@ msgstr ""
 "fi publicate. Faceți clic pe :guilabel:`Confirmați` pentru a publica automat "
 "tot conținutul cursului."
 
-#: ../../content/applications/services/helpdesk/overview/help_center.rst:-1
+#: ../../content/applications/services/helpdesk/overview/help_center.rst:None
 msgid "View of a course contents being published in Odoo Helpdesk back-end."
 msgstr ""
 "Vizualizarea conținutului unui curs care este publicat în Odoo Helpdesk back-"
@@ -3666,7 +3668,7 @@ msgstr ""
 "Derulează la secțiunea :guilabel:`Performanță` și bifează "
 "opțiunea :guilabel:`Evaluări clienți`."
 
-#: ../../content/applications/services/helpdesk/overview/ratings.rst:-1
+#: ../../content/applications/services/helpdesk/overview/ratings.rst:None
 msgid ""
 "Overview of the settings page of a helpdesk team emphasizing the rating on "
 "ticket feature\n"
@@ -3748,7 +3750,7 @@ msgstr "**Acceptabil** - |meh|"
 msgid "**Dissatisfied** - |frown|"
 msgstr "**Nesatisfăcut** - |frown|"
 
-#: ../../content/applications/services/helpdesk/overview/ratings.rst:-1
+#: ../../content/applications/services/helpdesk/overview/ratings.rst:None
 msgid "A preview of the ticket rating request template in Helpdesk."
 msgstr "Previzualizare a șablonului de solicitare evaluare tichet în Helpdesk."
 
@@ -3893,7 +3895,7 @@ msgstr ""
 "câmpul :guilabel:`Alias`, introduceți numele dorit pentru aliasul de e-mail "
 "al echipei."
 
-#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:None
 msgid ""
 "View of the settings page of a Helpdesk team emphasizing the email alias "
 "feature in Odoo\n"
@@ -4004,7 +4006,7 @@ msgstr ""
 "**Chat live** numit `Customer Care`."
 
 #: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:0
-#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:None
 msgid "View of the Kanban cards for the available Live Chat channels."
 msgstr ""
 "Vizualizarea cardurilor Kanban pentru canalele de chat live disponibile."
@@ -4114,7 +4116,7 @@ msgstr ""
 "Fila :guilabel:`Opțiuni` conține setările vizuale și de text pentru "
 "fereastra de chat live."
 
-#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:None
 msgid "View of the options tab of a Live Chat channel's settings."
 msgstr "Vedere a filei de opțiuni a setărilor unui canal de chat live."
 
@@ -4448,7 +4450,7 @@ msgstr ""
 "butonul :guilabel:`Contactați-ne`, din partea de jos a forumului, pentru a "
 "naviga la formularul de trimitere a biletelor."
 
-#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:None
 msgid ""
 "View of the settings page of a helpdesk team emphasizing the Go to Website "
 "button in\n"
@@ -4576,7 +4578,7 @@ msgstr ""
 ":guilabel:`Animation`: alegeți dacă câmpul trebuie să includă sau nu "
 "animație."
 
-#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:None
 msgid ""
 "View of the unpublished website form to submit a ticket for Odoo Helpdesk."
 msgstr ""
@@ -4607,7 +4609,7 @@ msgstr ""
 "Toate biletele includ un câmp :guilabel:`Priority`. Biletele cu cea mai mare "
 "prioritate apar în partea de sus a vizualizărilor Kanban și listă."
 
-#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:-1
+#: ../../content/applications/services/helpdesk/overview/receiving_tickets.rst:None
 msgid ""
 "View of a team's Kanban view and the prioritized tasks in Odoo Helpdesk."
 msgstr ""
@@ -4724,7 +4726,7 @@ msgstr ""
 "neuniformă a volumului de muncă între personalul de asistență. Raportul "
 "implicit numără numărul de bilete per echipă și le grupează pe etape."
 
-#: ../../content/applications/services/helpdesk/overview/reports.rst:-1
+#: ../../content/applications/services/helpdesk/overview/reports.rst:None
 msgid "View of Ticket Analysis report default view."
 msgstr "Vizualizare a vizualizarii implicite a raportului Analiza biletelor."
 
@@ -4873,7 +4875,7 @@ msgstr ""
 "eșuate, în curs și numărul care au avut succes. Rezultatele sunt grupate pe "
 "echipe."
 
-#: ../../content/applications/services/helpdesk/overview/reports.rst:-1
+#: ../../content/applications/services/helpdesk/overview/reports.rst:None
 msgid "View of Group by options of Ticket Analysis report."
 msgstr "Vizualizare Grupare după opțiuni din raportul Analiza biletelor."
 
@@ -4932,7 +4934,7 @@ msgstr ""
 "evaluărilor primite pe biletele de asistență individuale, precum și orice "
 "comentarii suplimentare trimise împreună cu evaluarea."
 
-#: ../../content/applications/services/helpdesk/overview/reports.rst:-1
+#: ../../content/applications/services/helpdesk/overview/reports.rst:None
 msgid "View of the Kanban display in the Customer Ratings report."
 msgstr "Vedere a afișajului Kanban în raportul Evaluările clienților."
 
@@ -4944,7 +4946,7 @@ msgstr ""
 "Faceți clic pe o evaluare individuală pentru a vedea detalii suplimentare "
 "despre evaluarea trimisă de client, inclusiv un link către biletul original."
 
-#: ../../content/applications/services/helpdesk/overview/reports.rst:-1
+#: ../../content/applications/services/helpdesk/overview/reports.rst:None
 msgid "View of the details of an individual customer rating."
 msgstr "Vedere a detaliilor unei evaluări individuale ale clientului."
 
@@ -5357,7 +5359,7 @@ msgstr ""
 "Termenul limită este apoi adăugat la tichet, împreună cu o etichetă care "
 "indică numele |SLA|-urilor aplicate."
 
-#: ../../content/applications/services/helpdesk/overview/sla.rst:-1
+#: ../../content/applications/services/helpdesk/overview/sla.rst:None
 msgid ""
 "View of a ticket's form emphasizing an open SLA deadline on a ticket in Odoo "
 "Helpdesk."
@@ -5373,7 +5375,7 @@ msgstr ""
 "Când un tichet respectă o politică |SLA|, eticheta |SLA| devine verde, iar "
 "termenul limită dispare din vizualizarea tichetului."
 
-#: ../../content/applications/services/helpdesk/overview/sla.rst:-1
+#: ../../content/applications/services/helpdesk/overview/sla.rst:None
 msgid "View of a ticket's form emphasizing a satisfied SLA in Odoo Helpdesk."
 msgstr ""
 "Vedere a formularului unui bilet care evidențiază un SLA satisfăcut în Odoo "
@@ -5401,7 +5403,7 @@ msgstr ""
 "rămâne pe tichet, chiar dacă acesta ajunge ulterior la :guilabel:`Etapa de "
 "atins`."
 
-#: ../../content/applications/services/helpdesk/overview/sla.rst:-1
+#: ../../content/applications/services/helpdesk/overview/sla.rst:None
 msgid ""
 "View of a ticket's form with a failing and passing SLA in Odoo Helpdesk."
 msgstr ""
@@ -5473,7 +5475,7 @@ msgstr ""
 "check` :guilabel:`(bifă)` în meniul derulant pentru a indica includerea "
 "măsurii, iar în tabelul pivot apare o coloană nouă cu calculele relevante."
 
-#: ../../content/applications/services/helpdesk/overview/sla.rst:-1
+#: ../../content/applications/services/helpdesk/overview/sla.rst:None
 msgid "View of the available measures in the SLA status analysis report."
 msgstr "Vedere a măsurilor disponibile în raportul de analiză a stării SLA."
 
@@ -5489,7 +5491,7 @@ msgstr ""
 "dintre grupuri. Pentru a elimina un grup, apasă pictograma :icon:`fa-minus-"
 "square-o` :guilabel:`(minus)` de lângă numele politicii."
 
-#: ../../content/applications/services/helpdesk/overview/sla.rst:-1
+#: ../../content/applications/services/helpdesk/overview/sla.rst:None
 msgid ""
 "View of the available group by options in the SLA status analysis report."
 msgstr ""
@@ -5613,284 +5615,6 @@ msgid ""
 msgstr ""
 ":doc:`Permite clienților să închidă tichetele </applications/services/"
 "helpdesk/advanced/close_tickets>`"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:3
-msgid "Stages"
-msgstr "Etape"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:5
-msgid ""
-"*Stages* are used to organize the **Helpdesk** pipeline and track the "
-"progress of tickets. Stages are customizable, and can be renamed to fit the "
-"needs of each team."
-msgstr ""
-"*Etapele* sunt folosite pentru a organiza fluxul **Helpdesk** și pentru a "
-"urmări progresul tichetelor. Etapele sunt personalizabile și pot fi "
-"redenumite pentru a se potrivi nevoilor fiecărei echipe."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:9
-msgid "Create or modify stages"
-msgstr "Creați sau modificați etapele"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:12
-msgid ""
-":ref:`Developer mode <developer-mode>` **must** be activated to access the "
-"stages menu. To activate developer mode, go to :menuselection:`Settings app "
-"--> General Settings --> Developer Tools`, and click :guilabel:`Activate the "
-"developer mode`."
-msgstr ""
-":ref:`Modul dezvoltator <modul-dezvoltator>` **trebuie** să fie activat "
-"pentru a accesa meniul etapelor. Pentru a activa modul dezvoltator, "
-"accesați :menuselection:`Settings app --> General Settings --> Developer "
-"Tools` și faceți clic pe :guilabel:`Activate the developer mode`."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:16
-msgid ""
-"To view or modify **Helpdesk** stages, go to :menuselection:`Helpdesk app --"
-"> Configuration --> Stages`."
-msgstr ""
-"Pentru a vizualiza sau modifica etapele **Helpdesk**, "
-"accesează :menuselection:`Aplicația Helpdesk --> Configurare --> Etape`."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:19
-msgid ""
-"The default list view on the :guilabel:`Stages` page displays the stages "
-"currently available in the **Helpdesk** app. They are listed in the order "
-"they appear in the pipeline."
-msgstr ""
-"Vizualizarea implicită de tip listă din pagina :guilabel:`Etape` afișează "
-"etapele disponibile în prezent în aplicația **Helpdesk**. Acestea sunt "
-"listate în ordinea în care apar în flux."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:22
-msgid ""
-"To change the order of the stages, click the :icon:`oi-"
-"draggable` :guilabel:`(draggable)` icon, to the left of the stage name, and "
-"drag it to the desired place on the list."
-msgstr ""
-"Pentru a schimba ordinea etapelor, apasă pictograma :icon:`oi-"
-"draggable` :guilabel:`(mutabil)` din stânga numelui etapei și trage-o în "
-"poziția dorită din listă."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:-1
-msgid ""
-"View of the stage list page emphasizing the buttons used to change the order "
-"the stages\n"
-"appear in the list."
-msgstr ""
-"Vizualizare a paginii cu lista etapelor subliniind butoanele folosite pentru "
-"a schimba ordinea etapelor\n"
-"apar în listă."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:30
-msgid ""
-"Change the stage order on the Kanban view of a **Helpdesk** team's pipeline "
-"by dragging and dropping individual columns."
-msgstr ""
-"Schimbă ordinea etapelor în vizualizarea Kanban a fluxului unei echipe "
-"**Helpdesk** prin glisarea și plasarea coloanelor individuale."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:33
-msgid ""
-"To create a new stage, click the :guilabel:`New` button at the top-left of "
-"the stage list. Doing so reveals a blank stage form."
-msgstr ""
-"Pentru a crea o etapă nouă, faceți clic pe butonul :guilabel:`Nou` din "
-"partea stângă sus a listei de etape. Procedând astfel, dezvăluie o formă de "
-"scenă goală."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:36
-msgid "Choose a :guilabel:`Name` for the new stage."
-msgstr "Alege un :guilabel:`Nume` pentru noua etapă."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:-1
-msgid "View of a stage's settings page in Odoo Helpdesk."
-msgstr "Vizualizarea paginii de setări a unei scene din Odoo Helpdesk."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:42
-msgid "Add email and SMS templates to stages"
-msgstr "Adăugați șabloane de e-mail și SMS la etape"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:44
-msgid ""
-"When an :guilabel:`Email Template` is added to a stage, a preconfigured "
-"email is automatically sent to the customer when a ticket reaches that "
-"specific stage in the pipeline. Likewise, adding an :guilabel:`SMS Template` "
-"triggers a preconfigured SMS text message to send to the customer."
-msgstr ""
-"Când un :guilabel:`Șablon email` este adăugat la o etapă, un email "
-"preconfigurat este trimis automat clientului când un tichet ajunge la acea "
-"etapă din flux. Similar, adăugarea unui :guilabel:`Șablon SMS` declanșează "
-"trimiterea unui mesaj SMS preconfigurat către client."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:49
-msgid ""
-"SMS text messaging is an :doc:`In-App Purchase (IAP) </applications/"
-"essentials/in_app_purchase/>` service that requires prepaid credits to work. "
-"Refer to `SMS Pricing FAQ <https://iap-services.odoo.com/iap/sms/pricing>`_ "
-"for additional information."
-msgstr ""
-"Trimiterea de SMS-uri este un serviciu :doc:`In-App Purchase (IAP) </"
-"applications/essentials/in_app_purchase/>` care necesită credite preplătite. "
-"Consultă `Întrebări frecvente despre prețurile SMS <https://iap-"
-"services.odoo.com/iap/sms/pricing>`_ pentru informații suplimentare."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:53
-msgid ""
-"To select an existing email template, select it from the :guilabel:`Email "
-"Template` field. After choosing a template, click on the :icon:`oi-arrow-"
-"right` :guilabel:`(right arrow)` icon to the right of the field to edit the "
-"chosen template."
-msgstr ""
-"Pentru a selecta un șablon de email existent, alege-l din "
-"câmpul :guilabel:`Șablon email`. După ce ai ales un șablon, apasă "
-"pictograma :icon:`oi-arrow-right` :guilabel:`(săgeată dreapta)` din dreapta "
-"câmpului pentru a edita șablonul ales."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:57
-msgid ""
-"To create a new template from this form, click the field, and enter a title "
-"for the new template. Then, select :guilabel:`Create and edit` from the drop-"
-"down menu that appears, and complete the form details."
-msgstr ""
-"Pentru a crea un șablon nou din acest formular, apasă pe câmp și introdu un "
-"titlu pentru noul șablon. Apoi selectează :guilabel:`Creează și editează` "
-"din meniul derulant care apare și completează detaliile formularului."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:61
-msgid ""
-"Follow the same steps to select, edit, or create an :guilabel:`SMS Template`."
-msgstr ""
-"Urmați aceiași pași pentru a selecta, edita sau crea un :guilabel:`Șablon "
-"SMS`."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:-1
-msgid "View of an SMS template setup page in Odoo Helpdesk."
-msgstr ""
-"Vizualizare a paginii de configurare a unui șablon SMS în Odoo Helpdesk."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:67
-msgid ":doc:`/applications/general/companies/email_template`"
-msgstr ":doc:`/aplicații/general/companii/șablon_email`"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:70
-msgid "Fold a stage"
-msgstr "Îndoiți o scenă"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:72
-msgid ""
-"By default, stages are unfolded in the Kanban view of either tickets "
-"dashboard: :guilabel:`My Tickets` (:menuselection:`Helpdesk app --> Tickets "
-"--> My Tickets`) or :guilabel:`All Tickets` (:menuselection:`Helpdesk app --"
-"> Tickets --> All Tickets`)."
-msgstr ""
-"În mod implicit, etapele sunt desfășurate în vizualizarea Kanban a tabloului "
-"de bord pentru bilete: :guilabel:`Biletele mele` (:menuselection:`Aplicația "
-"Helpdesk --> Bilete --> Biletele mele`) sau :guilabel:`Toate biletele` (: "
-"menuselection:`Aplicația Helpdesk --> Bilete --> Toate biletele`)."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:76
-msgid ""
-"Tickets in an unfolded stage are visible in the pipeline under the stage "
-"name, and are considered *open*."
-msgstr ""
-"Biletele într-o etapă desfășurată sunt vizibile sub numele de scenă și sunt "
-"considerate *deschise*."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:79
-msgid ""
-"Stages can be configured to be folded in the Kanban view of a tickets page."
-msgstr ""
-"Etapele pot fi configurate să fie restrânse în vizualizarea Kanban a paginii "
-"de tichete."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:81
-msgid ""
-"The name of the folded stages are still visible, but the tickets in the "
-"stage are hidden from view."
-msgstr ""
-"Numele etapelor restrânse rămâne vizibil, dar tichetele din acea etapă sunt "
-"ascunse din vizualizare."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:83
-msgid ""
-"To fold a stage, tick the :guilabel:`Folded in Kanban` checkbox on "
-"the :guilabel:`Stages` form."
-msgstr ""
-"Pentru a restrânge o etapă, bifează opțiunea :guilabel:`Restrânsă în Kanban` "
-"din formularul :guilabel:`Etape`."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:86
-msgid ""
-"Tickets that reach a *folded* stage are considered *closed*. Closing a "
-"ticket before the work is completed can result in reporting and "
-"communication issues. This setting should **only** be enabled for stages "
-"that are considered *closing* stages."
-msgstr ""
-"Biletele care ajung într-o etapă *pliată* sunt considerate *închise*. "
-"Închiderea unui bilet înainte de finalizarea lucrării poate duce la probleme "
-"de raportare și comunicare. Această setare ar trebui **numai** să fie "
-"activată pentru etapele care sunt considerate etape de *închidere*."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:91
-msgid "Temporarily fold a stage"
-msgstr "Restrânge temporar o etapă"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:93
-msgid ""
-"Stages can be temporarily folded in the Kanban view of the tickets pipeline, "
-"as well."
-msgstr ""
-"Etapele pot fi pliate temporar și în vizualizarea Kanban a conductei de "
-"bilete."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:95
-msgid ""
-"View a specific team's pipeline by navigating to :menuselection:`Helpdesk "
-"app`, and clicking the team's Kanban card."
-msgstr ""
-"Vizualizați canalul unei anumite echipe navigând "
-"la :menuselection:`Aplicația Helpdesk` și făcând clic pe cardul Kanban al "
-"echipei."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:98
-msgid ""
-"Hover the cursor at the top of the desired stage to fold temporarily, then "
-"click the :icon:`fa-gear` :guilabel:`(gear)` icon that appears, and "
-"select :guilabel:`Fold` from the drop-down menu."
-msgstr ""
-"Plasează cursorul în partea de sus a etapei dorite pentru a o restrânge "
-"temporar, apoi apasă pictograma :icon:`fa-gear` :guilabel:`(rotiță)` care "
-"apare și selectează :guilabel:`Restrânge` din meniul derulant."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:-1
-msgid ""
-"Kanban view of a Helpdesk stage, with the temporary fold option emphasized."
-msgstr ""
-"Vedere Kanban a unei etape Helpdesk, cu opțiunea de pliere temporară "
-"accentuată."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:105
-msgid ""
-"Manually folding a stage from the Kanban view is temporary and does **not** "
-"close the tickets in the stage."
-msgstr ""
-"Plierea manuală a unei scene din vizualizarea Kanban este temporară și "
-"**nu** închide biletele în scenă."
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:109
-msgid "Assign stages to a team"
-msgstr "Atribuiți etape unei echipe"
-
-#: ../../content/applications/services/helpdesk/overview/stages.rst:111
-msgid ""
-"Make a selection in the :guilabel:`Helpdesk Teams` field on "
-"the :guilabel:`Stages` form. More than one team may be selected, since the "
-"same stage can be assigned to multiple teams."
-msgstr ""
-"Faceți o selecție în câmpul :guilabel:`Helpdesk Teams` din "
-"formularul :guilabel:`Stages`. Pot fi selectate mai multe echipe, deoarece "
-"aceeași etapă poate fi atribuită mai multor echipe."
 
 #: ../../content/applications/services/planning.rst:5
 msgid "Planning"
@@ -6023,7 +5747,7 @@ msgstr ""
 "proprietăți`. :doc:`Configurează </applications/essentials/property_fields>` "
 "noul câmp după necesități."
 
-#: ../../content/applications/services/planning.rst:-1
+#: ../../content/applications/services/planning.rst:None
 msgid "Creating a new property field in Planning."
 msgstr "Crearea unui nou câmp de proprietate în Planning."
 
@@ -6081,7 +5805,7 @@ msgstr ""
 "alegeți angajatul pentru care doriți să editați setările. Apoi, accesați "
 "fila :guilabel:`Informații despre muncă`."
 
-#: ../../content/applications/services/planning.rst:-1
+#: ../../content/applications/services/planning.rst:None
 msgid "Employee profile and the work information tab."
 msgstr "Profilul angajatului și fila cu informații despre locul de muncă."
 
@@ -6140,11 +5864,8 @@ msgstr ""
 "genera intrări de muncă pe ture."
 
 #: ../../content/applications/services/planning.rst:110
-msgid ""
-":ref:`Payroll documentation on working schedules <payroll/working-times>`"
+msgid ":doc:`../hr/payroll/working_schedules`"
 msgstr ""
-":ref:`Documentația de salarizare privind programul de lucru <payroll/working-"
-"times>`"
 
 #: ../../content/applications/services/planning.rst:113
 msgid "Planning roles"
@@ -6240,31 +5961,21 @@ msgstr "Șabloane de schimburi"
 msgid ""
 "To create a shift template, click :guilabel:`New` on any schedule, then fill "
 "in the :ref:`details of the shift <planning/create-shift>`. In order for the "
-"shift to be saved as a template, tick :guilabel:`Save as Template`."
+"shift to be saved as a template, click :guilabel:`Save Template`."
 msgstr ""
-"Pentru a crea un șablon de tură, faceți clic pe :guilabel:`Nou` în orice "
-"program, apoi completați :ref:`detaliile turei <planning/create-shift>`. "
-"Pentru ca schimbarea să fie salvată ca șablon, bifați :guilabel:`Salvare ca "
-"șablon`."
 
-#: ../../content/applications/services/planning.rst:-1
-msgid "Shift form with the option `save template` ticked."
-msgstr "Schimbați formularul cu opțiunea `salvare șablon` bifată."
+#: ../../content/applications/services/planning.rst:None
+msgid "Shift form."
+msgstr ""
 
 #: ../../content/applications/services/planning.rst:158
 msgid ""
 "Alternatively, you can go to :menuselection:`Planning --> Configuration --> "
 "Shift Templates`, then click :guilabel:`New`. Fill in the :guilabel:`Start "
-"Hour` and :guilabel:`Shift Duration`. The shift’s :guilabel:`End Time` is "
-"then calculated based on the :guilabel:`Working Hours`, taking into account "
+"Hour` and :guilabel:`Span`. The shift’s :guilabel:`End Time` is then "
+"calculated based on the :guilabel:`Working Hours`, taking into account "
 "working time as well as breaks."
 msgstr ""
-"Alternativ, puteți merge la :menuselection:`Planificare --> Configurare --> "
-"Șabloane de schimb`, apoi faceți clic pe :guilabel:`Nou`. "
-"Completați :guilabel:`Ora de început` și :guilabel:`Durata "
-"schimbului`. :guilabel:`Ora de încheiere` a schimbului este apoi calculată "
-"pe baza :guilabel:`Orele de lucru`, luând în considerare timpul de lucru, "
-"precum și pauzele."
 
 #: ../../content/applications/services/planning.rst:164
 msgid ""
@@ -6336,7 +6047,7 @@ msgstr ""
 "(prin glisare și plasare), să redimensionați, să divizați și să duplicați "
 "ture fără a fi nevoie să le deschideți."
 
-#: ../../content/applications/services/planning.rst:-1
+#: ../../content/applications/services/planning.rst:None
 msgid "A schedule displaying various visual elements."
 msgstr "Un program care afișează diverse elemente vizuale."
 
@@ -6444,15 +6155,12 @@ msgstr ""
 
 #: ../../content/applications/services/planning.rst:225
 msgid ""
-":guilabel:`Repeat`: Tick the checkbox and configure the :guilabel:`Repeat "
-"Every` field according to your needs. The following rules apply to recurring "
-"shifts:"
+":guilabel:`Repeat`: Click the :icon:`fa-repeat` :guilabel:`(repeat)` button "
+"and configure the :guilabel:`Repeat every` fields according to your needs. "
+"The following rules apply to recurring shifts:"
 msgstr ""
-":guilabel:`Repetați`: Bifați caseta de selectare și configurați "
-"câmpul :guilabel:`Repetați fiecare` în funcție de nevoile dvs. Următoarele "
-"reguli se aplică schimburilor recurente:"
 
-#: ../../content/applications/services/planning.rst:228
+#: ../../content/applications/services/planning.rst:229
 msgid ""
 "All fields "
 "(e.g., :guilabel:`Resource`, :guilabel:`Role`, :guilabel:`Project`) are "
@@ -6464,11 +6172,11 @@ msgstr ""
 "din schimbul inițial, cu excepția datei, care este ajustată "
 "conform :guilabel:`Repetați fiecare` camp."
 
-#: ../../content/applications/services/planning.rst:231
+#: ../../content/applications/services/planning.rst:232
 msgid "Recurrences are planned but not published."
 msgstr "Recurentele sunt planificate, dar nu sunt publicate."
 
-#: ../../content/applications/services/planning.rst:232
+#: ../../content/applications/services/planning.rst:233
 msgid ""
 "By default, planned shifts are created six months in advance, after which "
 "they are created gradually. To change the time frame, :ref:`activate the "
@@ -6481,18 +6189,7 @@ msgstr ""
 "accesați :menuselection:`Planificare --> Configurare --> Setări` și "
 "editați :guilabel:`Turxe recurente`."
 
-#: ../../content/applications/services/planning.rst:237
-msgid ""
-":guilabel:`Save as Template`: When this option is ticked, a shift template "
-"is created with the same :guilabel:`Start and End "
-"hours`, :guilabel:`Allocated time`, :guilabel:`Role`, "
-"and :guilabel:`Project`."
-msgstr ""
-":guilabel:`Salvează ca șablon`: Când această opțiune este bifată, este creat "
-"un șablon de tură cu aceleași :guilabel:`Ore de început și de "
-"sfârșit`, :guilabel:`Timp alocat`, :guilabel:`Rol` și : guilabel:`Proiect`."
-
-#: ../../content/applications/services/planning.rst:240
+#: ../../content/applications/services/planning.rst:238
 msgid ""
 ":guilabel:`Additional note sent to the employee`: Click on the field to add "
 "a note."
@@ -6500,7 +6197,7 @@ msgstr ""
 ":guilabel:`Notă suplimentară trimisă angajatului`: Faceți clic pe câmp "
 "pentru a adăuga o notă."
 
-#: ../../content/applications/services/planning.rst:241
+#: ../../content/applications/services/planning.rst:239
 msgid ""
 ":guilabel:`Date`: Choose the date and time of your shift. This is the only "
 "mandatory field when creating a shift."
@@ -6508,7 +6205,7 @@ msgstr ""
 ":guilabel:`Data`: Alegeți data și ora schimbului dvs. Acesta este singurul "
 "câmp obligatoriu la crearea unui schimb."
 
-#: ../../content/applications/services/planning.rst:243
+#: ../../content/applications/services/planning.rst:241
 msgid ""
 ":guilabel:`Allocated time`: Is calculated based on the date and the "
 "employee’s :guilabel:`Working Schedule`. See more in :ref:`Shift Templates "
@@ -6518,7 +6215,7 @@ msgstr ""
 "a :guilabel:`Programul de lucru` al angajatului. Vedeți mai multe "
 "în :ref:`Șabloane de schimb <planificare/șabloane>`."
 
-#: ../../content/applications/services/planning.rst:246
+#: ../../content/applications/services/planning.rst:244
 msgid ""
 "Click :guilabel:`Publish & Save` to confirm the shift and send the assigned "
 "employee their schedule by email."
@@ -6526,7 +6223,7 @@ msgstr ""
 "Faceți clic pe :guilabel:`Publish & Save` pentru a confirma tura și a "
 "trimite angajatului desemnat programul prin e-mail."
 
-#: ../../content/applications/services/planning.rst:250
+#: ../../content/applications/services/planning.rst:248
 msgid ""
 "The draft is visible on the admin planning view and can be identified by "
 "diagonal lines. The employee is only notified of the shift once it's "
@@ -6536,7 +6233,7 @@ msgstr ""
 "identificată prin linii diagonale. Angajatul este anunțat despre tură doar "
 "după publicarea acestuia."
 
-#: ../../content/applications/services/planning.rst:253
+#: ../../content/applications/services/planning.rst:251
 msgid ""
 "Two kinds of notifications are sent to the employees depending on their "
 "account configuration:"
@@ -6544,7 +6241,7 @@ msgstr ""
 "Două tipuri de notificări sunt trimise angajaților în funcție de "
 "configurația contului lor:"
 
-#: ../../content/applications/services/planning.rst:255
+#: ../../content/applications/services/planning.rst:253
 msgid ""
 "Employees without user accounts are redirected to a dedicated **Planning "
 "portal**."
@@ -6552,7 +6249,7 @@ msgstr ""
 "Angajații fără conturi de utilizator sunt redirecționați către un **portal "
 "de planificare** dedicat."
 
-#: ../../content/applications/services/planning.rst:256
+#: ../../content/applications/services/planning.rst:254
 msgid ""
 "Employees with a user account are redirected to the :guilabel:`My Planning` "
 "view in the backend view of Odoo."
@@ -6560,7 +6257,7 @@ msgstr ""
 "Angajații cu un cont de utilizator sunt redirecționați către "
 "vizualizarea :guilabel:`Planificarea mea` din vizualizarea backend a Odoo."
 
-#: ../../content/applications/services/planning.rst:260
+#: ../../content/applications/services/planning.rst:258
 msgid ""
 "The **split shifts** tool allows to easily split a long shift into segments. "
 "To do so, hover the mouse over the desired shift and click the :icon:`fa-"
@@ -6575,11 +6272,11 @@ msgstr ""
 msgid "Split shifts tool."
 msgstr "Instrument de împărțire a schimburilor."
 
-#: ../../content/applications/services/planning.rst:269
+#: ../../content/applications/services/planning.rst:267
 msgid "Open shifts and auto planning"
 msgstr "Turne deschise și planificare automată"
 
-#: ../../content/applications/services/planning.rst:271
+#: ../../content/applications/services/planning.rst:269
 msgid ""
 "The :guilabel:`Auto Plan` button allows you to assign **Open shifts** "
 "(shifts with no resource assigned) and create and assign shifts linked to "
@@ -6589,11 +6286,11 @@ msgstr ""
 "(ture fără nicio resursă alocată) și să creați și să atribuiți ture legate "
 "de comenzile de vânzări sau proiect."
 
-#: ../../content/applications/services/planning.rst:274
+#: ../../content/applications/services/planning.rst:272
 msgid "The following features have an impact on auto planning:"
 msgstr "Următoarele caracteristici au un impact asupra planificării automate:"
 
-#: ../../content/applications/services/planning.rst:276
+#: ../../content/applications/services/planning.rst:274
 msgid ""
 "**Roles**: Open shifts are only assigned to resources (employees or "
 "materials) that have the corresponding role assigned. It is not possible to "
@@ -6603,7 +6300,7 @@ msgstr ""
 "materiale) cărora le este atribuit rolul corespunzător. Nu este posibil să "
 "utilizați funcția :guilabel:`Auto Plan` pentru angajații fără roluri."
 
-#: ../../content/applications/services/planning.rst:279
+#: ../../content/applications/services/planning.rst:277
 msgid ""
 "**Default roles**: The default role assigned to a resource is given priority "
 "over the other roles they have assigned to them."
@@ -6611,7 +6308,7 @@ msgstr ""
 "**Roluri implicite**: rolul implicit atribuit unei resurse are prioritate "
 "față de celelalte roluri pe care le-au atribuit acestora."
 
-#: ../../content/applications/services/planning.rst:281
+#: ../../content/applications/services/planning.rst:279
 msgid ""
 "**Conflicts**: Employees or materials cannot be assigned multiple shifts at "
 "the same time."
@@ -6619,7 +6316,7 @@ msgstr ""
 "**Conflicte**: angajaților sau materialelor nu li se pot atribui mai multe "
 "schimburi în același timp."
 
-#: ../../content/applications/services/planning.rst:282
+#: ../../content/applications/services/planning.rst:280
 msgid ""
 "**Time off**: The employees’ time off is taken into account, as well as "
 "public holidays."
@@ -6627,7 +6324,7 @@ msgstr ""
 "**Timp liber**: Se ia în considerare timpul liber al angajaților, precum și "
 "sărbătorile legale."
 
-#: ../../content/applications/services/planning.rst:283
+#: ../../content/applications/services/planning.rst:281
 msgid ""
 "**Working hours**: Are taken into account when assigning shifts to employees "
 "or materials. It is not possible to use the :guilabel:`Auto Plan` feature "
@@ -6639,7 +6336,7 @@ msgstr ""
 "funcției :guilabel:`Planificare automată` pentru un angajat care "
 "lucrează :ref:`ore flexibile <planning/working-hours>`."
 
-#: ../../content/applications/services/planning.rst:286
+#: ../../content/applications/services/planning.rst:284
 msgid ""
 "**Contracts**: If the employee has an active contract, they won't be "
 "assigned shifts that fall outside of their contract period."
@@ -6647,7 +6344,7 @@ msgstr ""
 "**Contracte**: Dacă angajatul are un contract activ, nu i se vor atribui "
 "schimburi care depășesc perioada contractului."
 
-#: ../../content/applications/services/planning.rst:289
+#: ../../content/applications/services/planning.rst:287
 msgid ""
 "Click :guilabel:`Publish` to confirm the schedule and notify the employees "
 "of their planning."
@@ -6655,11 +6352,11 @@ msgstr ""
 "Faceți clic pe :guilabel:`Publish` pentru a confirma programul și a notifica "
 "angajații cu privire la planificarea lor."
 
-#: ../../content/applications/services/planning.rst:294
+#: ../../content/applications/services/planning.rst:292
 msgid "Switching shifts and unassignment"
 msgstr "Schimbarea turelor și anularea repartizării"
 
-#: ../../content/applications/services/planning.rst:296
+#: ../../content/applications/services/planning.rst:294
 msgid ""
 "Two features are available to allow employees to make changes to their "
 "schedule: **switching shifts** and **unassignment**."
@@ -6667,7 +6364,7 @@ msgstr ""
 "Sunt disponibile două funcții pentru a le permite angajaților să facă "
 "modificări în programul lor: **schimbarea schimburilor** și **anulare**."
 
-#: ../../content/applications/services/planning.rst:300
+#: ../../content/applications/services/planning.rst:298
 msgid ""
 "These features are mutually exclusive. Switching shifts is possible by "
 "default and cannot be disabled. However, once the **Allow unassignment** "
@@ -6678,11 +6375,11 @@ msgstr ""
 "ce funcția **Permite anularea atribuirii** este activată, ea înlocuiește "
 "opțiunea de schimbare a schimburilor."
 
-#: ../../content/applications/services/planning.rst:305
+#: ../../content/applications/services/planning.rst:303
 msgid "Switching shifts"
 msgstr "Schimbarea turelor"
 
-#: ../../content/applications/services/planning.rst:307
+#: ../../content/applications/services/planning.rst:305
 msgid ""
 "Once shifts are planned and published, employees receive an email "
 "notification. If an employee wishes to switch a shift, they can click the "
@@ -6693,7 +6390,7 @@ msgstr ""
 "face clic pe tura nedorită și poate face clic pe :guilabel:`Solicitați "
 "schimbarea`."
 
-#: ../../content/applications/services/planning.rst:310
+#: ../../content/applications/services/planning.rst:308
 msgid ""
 "The shift remains assigned to the original employee, but in the schedule, a "
 "notification informing that the assigned employee would like to switch "
@@ -6703,7 +6400,7 @@ msgstr ""
 "informează că angajatul desemnat ar dori să schimbe ture este vizibilă în "
 "tură."
 
-#: ../../content/applications/services/planning.rst:313
+#: ../../content/applications/services/planning.rst:311
 msgid ""
 "The shift is then displayed to other employees who share the same role, and "
 "if they wish to assign it to themselves, they can click the :guilabel:`I "
@@ -6713,12 +6410,12 @@ msgstr ""
 "dacă doresc să și-l atribuie lor, aceștia pot face clic pe "
 "butonul :guilabel:`I accept`."
 
-#: ../../content/applications/services/planning.rst:317
-#: ../../content/applications/services/planning.rst:335
+#: ../../content/applications/services/planning.rst:315
+#: ../../content/applications/services/planning.rst:333
 msgid "The following rules apply:"
 msgstr "Se aplică următoarele reguli:"
 
-#: ../../content/applications/services/planning.rst:319
+#: ../../content/applications/services/planning.rst:317
 msgid ""
 "Only the shifts matching the employee's roles are displayed as available to "
 "them."
@@ -6726,16 +6423,16 @@ msgstr ""
 "Numai schimburile care se potrivesc cu rolurile angajatului sunt afișate ca "
 "fiind disponibile pentru acesta."
 
-#: ../../content/applications/services/planning.rst:320
+#: ../../content/applications/services/planning.rst:318
 msgid "Switching shifts is not available for shifts in the past."
 msgstr ""
 "Schimbarea schimburilor nu este disponibilă pentru schimburile din trecut."
 
-#: ../../content/applications/services/planning.rst:323
+#: ../../content/applications/services/planning.rst:321
 msgid "Unassignment"
 msgstr "Anularea atribuirii"
 
-#: ../../content/applications/services/planning.rst:325
+#: ../../content/applications/services/planning.rst:323
 msgid ""
 "To allow employees to unassign themselves from shifts, go "
 "to :menuselection:`Planning --> Configuration --> Settings`, then tick the "
@@ -6748,7 +6445,7 @@ msgstr ""
 "specificați numărul maxim de zile pe care angajații le pot anula înainte de "
 "tură."
 
-#: ../../content/applications/services/planning.rst:330
+#: ../../content/applications/services/planning.rst:328
 msgid ""
 "Once shifts are planned and published, employees receive an email "
 "notification. If shift unassignment is allowed, the employees can click "
@@ -6760,7 +6457,7 @@ msgstr ""
 "face clic pe butonul :guilabel:`Sunt indisponibil`, iar schimbul revine la "
 "un schimb deschis."
 
-#: ../../content/applications/services/planning.rst:337
+#: ../../content/applications/services/planning.rst:335
 msgid ""
 "Only the shifts matching the employee's roles are displayed in their "
 "schedule."
@@ -6768,7 +6465,7 @@ msgstr ""
 "Doar schimburile care se potrivesc cu rolurile angajatului sunt afișate în "
 "programul acestora."
 
-#: ../../content/applications/services/planning.rst:338
+#: ../../content/applications/services/planning.rst:336
 msgid "Unassigning shifts is not available for shifts in the past."
 msgstr ""
 "Dezatribuirea schimburilor nu este disponibilă pentru schimburile din trecut."
@@ -6841,7 +6538,7 @@ msgstr ""
 "clic pe butonul de comutare derulant (:guilabel:`⋮`) de pe **cardul** al "
 "proiectului."
 
-#: ../../content/applications/services/project/project_management.rst:-1
+#: ../../content/applications/services/project/project_management.rst:None
 msgid "Project card"
 msgstr "Cartea de proiect"
 
@@ -6925,7 +6622,7 @@ msgstr ""
 "În plus, puteți marca proiectul ca :guilabel:`Favorite`, permițându-vă să-l "
 "găsiți folosind filtrul :guilabel:`Preferatele mele` din vizualizarea Kanban;"
 
-#: ../../content/applications/services/project/project_management.rst:-1
+#: ../../content/applications/services/project/project_management.rst:None
 msgid "Project settings"
 msgstr "Setările proiectului"
 
@@ -7118,7 +6815,7 @@ msgstr ""
 "părăsi aplicația Proiect. Pentru a reveni la vizualizarea Kanban a "
 "sarcinilor proiectului, apasă butonul :guilabel:`Sarcini` din bara de sus."
 
-#: ../../content/applications/services/project/project_management.rst:-1
+#: ../../content/applications/services/project/project_management.rst:None
 msgid "Top bar selection menu"
 msgstr "Meniu de selecție bară superioară"
 
@@ -7568,7 +7265,7 @@ msgstr ""
 "plătită de client pentru muncă și la :guilabel:`Costuri` cu suma plătită "
 "angajaților."
 
-#: ../../content/applications/services/project/project_management/project_profitability.rst:-1
+#: ../../content/applications/services/project/project_management/project_profitability.rst:None
 msgid "Project dashboard."
 msgstr "Tablou de bord proiect."
 
@@ -7702,12 +7399,8 @@ msgstr ""
 #: ../../content/applications/services/project/project_management/project_profitability.rst:77
 msgid ""
 ":guilabel:`Expenses`: any :doc:`expenses </applications/finance/expenses>` "
-"that have been :doc:`reinvoiced to the customer </applications/sales/sales/"
-"invoicing/expense>`."
+"that have been reinvoiced to the customer."
 msgstr ""
-":guilabel:`Cheltuieli`: orice :doc:`cheltuieli </applications/finance/"
-"expenses>` care au fost :doc:`refacturate clientului </applications/sales/"
-"sales/invoicing/expense>`."
 
 #: ../../content/applications/services/project/project_management/project_profitability.rst:83
 msgid "Costs"
@@ -8341,7 +8034,7 @@ msgstr ""
 "**Accept e-mailuri de la**: rafinați expeditorii ale căror e-mailuri vor "
 "crea sarcini în proiect."
 
-#: ../../content/applications/services/project/tasks/task_creation.rst:-1
+#: ../../content/applications/services/project/tasks/task_creation.rst:None
 msgid "View of the email alias chosen on the dashboard view in Odoo Project"
 msgstr ""
 "Vizualizare a aliasului de e-mail ales pe vizualizarea tabloului de bord în "
@@ -8511,7 +8204,7 @@ msgstr ""
 "apar în jurul ei. Trage și lasă punctul pe sarcina succesoare. Va apărea o "
 "săgeată care indică dependența de la sarcina predecesoare la cea succesoare."
 
-#: ../../content/applications/services/project/tasks/task_dependencies.rst:-1
+#: ../../content/applications/services/project/tasks/task_dependencies.rst:None
 msgid "Task dependency"
 msgstr "Dependență între sarcini"
 
@@ -8838,13 +8531,13 @@ msgid ""
 "by the user is also displayed."
 msgstr ""
 
-#: ../../content/applications/services/timesheets/billing_rates.rst:-1
+#: ../../content/applications/services/timesheets/billing_rates.rst:None
 msgid "Billing rate indicators."
 msgstr ""
 
 #: ../../content/applications/services/timesheets/billing_rates.rst:51
 msgid "Billing rate leaderboard"
-msgstr ""
+msgstr "Billing rate leaderboard"
 
 #: ../../content/applications/services/timesheets/billing_rates.rst:56
 msgid ""
@@ -8889,7 +8582,7 @@ msgid ""
 "across billable and internal projects."
 msgstr ""
 
-#: ../../content/applications/services/timesheets/billing_rates.rst:-1
+#: ../../content/applications/services/timesheets/billing_rates.rst:None
 msgid "Billing rate leaderboard."
 msgstr ""
 
@@ -8912,108 +8605,504 @@ msgid ""
 msgstr ""
 
 #: ../../content/applications/services/timesheets/time_off.rst:3
-msgid "Create Timesheets upon Time Off Validation"
-msgstr "Creare fișe de pontaj la validarea concediului"
+msgid "Time off entries"
+msgstr ""
 
 #: ../../content/applications/services/timesheets/time_off.rst:5
 msgid ""
-"Odoo automatically timesheets on project/tasks upon time off requests. This "
-"allows for better overall control over the validation of timesheets, as it "
-"does not leave place for forgetfulness and questions after hours that have "
-"not been timesheeted by the employee."
+"Odoo automatically generates timesheet entries on projects and tasks once a "
+"time off request is approved. This streamlines timesheet validation by "
+"ensuring approved time off is accurately reflected in timesheets."
 msgstr ""
-"Odoo creează automat fișe de pontaj pe proiect/sarcini la cererile de "
-"concediu. Acest lucru permite un control mai bun asupra validării fișelor de "
-"pontaj, deoarece nu lasă loc pentru întrebări despre orele care nu au fost "
-"înregistrate în fișa de pontaj, de către angajat."
 
-#: ../../content/applications/services/timesheets/time_off.rst:9
+#: ../../content/applications/services/timesheets/time_off.rst:14
 msgid ""
-"Activate the :ref:`developer mode <developer-mode>`, go to *Timesheets*, and "
-"change the *Project* and *Task* set by default, if you like."
+"First, activate the :ref:`developer mode <developer-mode>`, then open the "
+"**Timesheets** app, and navigate to :menuselection:`Configuration --> "
+"Settings`. Scroll to the :guilabel:`Time Off` section and enable "
+"the :guilabel:`Time Off` checkbox. Enabling this option creates timesheet "
+"entries for validated time off requests and public holidays."
 msgstr ""
-"Activați :ref:`modul de dezvoltator <developer-mode>`, accesați *Fișe de "
-"pontaj*,și schimbați *Proiectul* și *Sarcina* setate în mod implicit, dacă "
-"doriți."
 
-#: ../../content/applications/services/timesheets/time_off.rst:-1
+#: ../../content/applications/services/timesheets/time_off.rst:19
 msgid ""
-"View of Timesheets setting enabling the feature record time off in Odoo "
-"Timesheets"
+"Once enabled, two fields appear: :guilabel:`Project` and :guilabel:`Task`. "
+"The default selection for :guilabel:`Project` is :guilabel:`Internal`, and "
+"the default selection for :guilabel:`Task` is :guilabel:`Time Off`. These "
+"inform Odoo where to log the time off requests, which project, and task. "
+"These can be modified, if desired, using the drop-down menu."
 msgstr ""
-"Vizualizare a setărilor Fișelor de pontaj care permit înregistrarea "
-"concediului în Odoo Fișe de pontaj"
 
-#: ../../content/applications/services/timesheets/time_off.rst:16
+#: ../../content/applications/services/timesheets/time_off.rst:25
 msgid ""
-"Go to :menuselection:`Time Off --> Configuration --> Time Off Types`. Select "
-"or create the needed type, and decide if you would like the requests to be "
-"validated or not."
+"The available options presented vary based on the installed applications."
 msgstr ""
-"Accesați :menuselection:`Concediu --> Configurare --> Tipuri de concediu`. "
-"Selectațisau creați tipul necesar și decideți dacă doriți ca cererile să fie "
-"validate sau nu."
 
-#: ../../content/applications/services/timesheets/time_off.rst:-1
+#: ../../content/applications/services/timesheets/time_off.rst:28
 msgid ""
-"View of a time off types form emphasizing the time off requests and "
-"timesheets section in\n"
-"Odoo Time Off"
+"Time off categories without validation requirements create timesheet records "
+"instantly. Requests requiring validation creates timesheet entries *after* "
+"the time off request is approved."
 msgstr ""
-"Vizualizare a formularului tipurilor de concediu care evidențiază secțiunea "
-"cererilor de concediu și fișelor de pontaj în Odoo Concedii"
 
-#: ../../content/applications/services/timesheets/time_off.rst:26
+#: ../../content/applications/services/timesheets/time_off.rst:31
 msgid ""
-"Now, once the employee has requested his time off and the request has been "
-"validated (or not, depending on the setting chosen), the time is "
-"automatically allocated on *Timesheets*, under the respective project and "
-"task."
+"To check if a time off type requires approval, check "
+"the :guilabel:`Approvals` section of the :ref:`time off type form <time_off/"
+"time-off-requests>`."
 msgstr ""
-"Acum, odată ce angajatul a solicitat concediul și cererea a fost validată "
-"(sau nu, în funcție de setarea aleasă), timpul este alocat automat în *Fișe "
-"de pontaj*, sub respectivul proiect și sarcină."
 
-#: ../../content/applications/services/timesheets/time_off.rst:27
+#: ../../content/applications/services/timesheets/time_off.rst:35
+msgid "Workflow"
+msgstr ""
+
+#: ../../content/applications/services/timesheets/time_off.rst:37
 msgid ""
-"On the example below, the user requested *Paid Time off* from July 13th to "
-"15th."
+"Once the employee has :doc:`requested time off <../../hr/time_off/"
+"request_time_off>`, and the request has been validated, if necessary, the "
+"time is automatically logged on the **Timesheets** app, under the respective "
+"project and task."
 msgstr ""
-"În exemplul de mai jos, utilizatorul a solicitat *Concediu plătit* de la 13 "
-"iulie la 15 iulie."
-
-#: ../../content/applications/services/timesheets/time_off.rst:-1
-msgid "View of the time off request form in Odoo Time Off"
-msgstr "Vizualizare a formularului cererii de concediu în Odoo Concediu"
-
-#: ../../content/applications/services/timesheets/time_off.rst:33
-msgid ""
-"Considering that validation is not required, the requested time off is "
-"automatically displayed in *Timesheets*. If validation is necessary, the "
-"time is automatically allocated after the responsible person for validating "
-"does it so."
-msgstr ""
-"Având în vedere că validarea nu este necesară, concediul solicitat este "
-"afișat automat în *Fișe de pontaj*. Dacă este necesară validarea, timpul "
-"este alocat automat după ce persoana responsabilă pentru validare o face."
-
-#: ../../content/applications/services/timesheets/time_off.rst:-1
-msgid ""
-"Video of timesheets emphasizing the requested time off from the employee in "
-"Odoo Timesheets"
-msgstr ""
-"Video fișe de pontaj care evidențiază concediul solicitat de angajat în Odoo"
 
 #: ../../content/applications/services/timesheets/time_off.rst:41
 msgid ""
-"Click on the magnifying glass, hovering over the concerned cell, to access "
-"all the aggregated data on that cell (day), and see details regarding the "
-"project/task."
+"To view the logged entry, open the **Timesheets** app and navigate to the "
+"relevant time period. The time off appears in the corresponding field, "
+"according to the :ref:`configuration <timesheets/config>`."
 msgstr ""
-"Faceți clic pe lupa de mărire, plasată deasupra celulei respective, pentru a "
-"accesa toate datele agregate din acea celulă (zi) și pentru a vedea detalii "
-"legate de proiect/sarcina."
 
-#: ../../content/applications/services/timesheets/time_off.rst:-1
-msgid "View of the details of a project/task in Odoo Timeheets"
-msgstr "Vizualizare a detaliilor unui proiect/sarcină în Odoo Fișe de pontaj"
+#: ../../content/applications/services/timesheets/time_off.rst:45
+msgid ""
+"To view the timesheet entry details, click the :icon:`fa-"
+"search` :guilabel:`(magnifying glass)` icon that appears when hovering over "
+"the entry, and the detailed timesheet information appears."
+msgstr ""
+
+#: ../../content/applications/services/timesheets/time_off.rst:49
+msgid ""
+"An employee is attending internal training the week of December 15-19, 2025, "
+"and logs their time in the **Timesheets** app under the `Internal` project, "
+"with a task of `Training`. On December 19, 2025, the employee is home sick, "
+"and requests the day off in the **Time Off** app."
+msgstr ""
+
+#: ../../content/applications/services/timesheets/time_off.rst:53
+msgid ""
+"The *time off type* they request is *Sick Time off*, which is configured to "
+"**not** require validation. The employee's time off request is automatically "
+"approved, and is logged in the **Timesheets** app, under the `Internal` "
+"project, and the `Time Off` task."
+msgstr ""
+
+#: ../../content/applications/services/timesheets/time_off.rst:0
+msgid "A timecard reflecting training hours and sick time off."
+msgstr ""
+
+#~ msgid ""
+#~ ":guilabel:`Expenses`: any :doc:`expenses </applications/finance/"
+#~ "expenses>` that have been :doc:`reinvoiced to the customer </applications/"
+#~ "sales/sales/invoicing/expense>`."
+#~ msgstr ""
+#~ ":guilabel:`Cheltuieli`: orice :doc:`cheltuieli </applications/finance/"
+#~ "expenses>` care au fost :doc:`refacturate clientului </applications/sales/"
+#~ "sales/invoicing/expense>`."
+
+#~ msgid "Create Timesheets upon Time Off Validation"
+#~ msgstr "Creare fișe de pontaj la validarea concediului"
+
+#~ msgid ""
+#~ "Odoo automatically timesheets on project/tasks upon time off requests. "
+#~ "This allows for better overall control over the validation of timesheets, "
+#~ "as it does not leave place for forgetfulness and questions after hours "
+#~ "that have not been timesheeted by the employee."
+#~ msgstr ""
+#~ "Odoo creează automat fișe de pontaj pe proiect/sarcini la cererile de "
+#~ "concediu. Acest lucru permite un control mai bun asupra validării fișelor "
+#~ "de pontaj, deoarece nu lasă loc pentru întrebări despre orele care nu au "
+#~ "fost înregistrate în fișa de pontaj, de către angajat."
+
+#~ msgid ""
+#~ "Activate the :ref:`developer mode <developer-mode>`, go to *Timesheets*, "
+#~ "and change the *Project* and *Task* set by default, if you like."
+#~ msgstr ""
+#~ "Activați :ref:`modul de dezvoltator <developer-mode>`, accesați *Fișe de "
+#~ "pontaj*,și schimbați *Proiectul* și *Sarcina* setate în mod implicit, "
+#~ "dacă doriți."
+
+#~ msgid ""
+#~ "View of Timesheets setting enabling the feature record time off in Odoo "
+#~ "Timesheets"
+#~ msgstr ""
+#~ "Vizualizare a setărilor Fișelor de pontaj care permit înregistrarea "
+#~ "concediului în Odoo Fișe de pontaj"
+
+#~ msgid ""
+#~ "Go to :menuselection:`Time Off --> Configuration --> Time Off Types`. "
+#~ "Select or create the needed type, and decide if you would like the "
+#~ "requests to be validated or not."
+#~ msgstr ""
+#~ "Accesați :menuselection:`Concediu --> Configurare --> Tipuri de "
+#~ "concediu`. Selectațisau creați tipul necesar și decideți dacă doriți ca "
+#~ "cererile să fie validate sau nu."
+
+#~ msgid ""
+#~ "View of a time off types form emphasizing the time off requests and "
+#~ "timesheets section in\n"
+#~ "Odoo Time Off"
+#~ msgstr ""
+#~ "Vizualizare a formularului tipurilor de concediu care evidențiază "
+#~ "secțiunea cererilor de concediu și fișelor de pontaj în Odoo Concedii"
+
+#~ msgid ""
+#~ "Now, once the employee has requested his time off and the request has "
+#~ "been validated (or not, depending on the setting chosen), the time is "
+#~ "automatically allocated on *Timesheets*, under the respective project and "
+#~ "task."
+#~ msgstr ""
+#~ "Acum, odată ce angajatul a solicitat concediul și cererea a fost validată "
+#~ "(sau nu, în funcție de setarea aleasă), timpul este alocat automat în "
+#~ "*Fișe de pontaj*, sub respectivul proiect și sarcină."
+
+#~ msgid ""
+#~ "On the example below, the user requested *Paid Time off* from July 13th "
+#~ "to 15th."
+#~ msgstr ""
+#~ "În exemplul de mai jos, utilizatorul a solicitat *Concediu plătit* de la "
+#~ "13 iulie la 15 iulie."
+
+#~ msgid "View of the time off request form in Odoo Time Off"
+#~ msgstr "Vizualizare a formularului cererii de concediu în Odoo Concediu"
+
+#~ msgid ""
+#~ "Considering that validation is not required, the requested time off is "
+#~ "automatically displayed in *Timesheets*. If validation is necessary, the "
+#~ "time is automatically allocated after the responsible person for "
+#~ "validating does it so."
+#~ msgstr ""
+#~ "Având în vedere că validarea nu este necesară, concediul solicitat este "
+#~ "afișat automat în *Fișe de pontaj*. Dacă este necesară validarea, timpul "
+#~ "este alocat automat după ce persoana responsabilă pentru validare o face."
+
+#~ msgid ""
+#~ "Video of timesheets emphasizing the requested time off from the employee "
+#~ "in Odoo Timesheets"
+#~ msgstr ""
+#~ "Video fișe de pontaj care evidențiază concediul solicitat de angajat în "
+#~ "Odoo"
+
+#~ msgid ""
+#~ "Click on the magnifying glass, hovering over the concerned cell, to "
+#~ "access all the aggregated data on that cell (day), and see details "
+#~ "regarding the project/task."
+#~ msgstr ""
+#~ "Faceți clic pe lupa de mărire, plasată deasupra celulei respective, "
+#~ "pentru a accesa toate datele agregate din acea celulă (zi) și pentru a "
+#~ "vedea detalii legate de proiect/sarcina."
+
+#~ msgid "View of the details of a project/task in Odoo Timeheets"
+#~ msgstr ""
+#~ "Vizualizare a detaliilor unui proiect/sarcină în Odoo Fișe de pontaj"
+
+#~ msgid "Stages"
+#~ msgstr "Etape"
+
+#~ msgid ""
+#~ "*Stages* are used to organize the **Helpdesk** pipeline and track the "
+#~ "progress of tickets. Stages are customizable, and can be renamed to fit "
+#~ "the needs of each team."
+#~ msgstr ""
+#~ "*Etapele* sunt folosite pentru a organiza fluxul **Helpdesk** și pentru a "
+#~ "urmări progresul tichetelor. Etapele sunt personalizabile și pot fi "
+#~ "redenumite pentru a se potrivi nevoilor fiecărei echipe."
+
+#~ msgid "Create or modify stages"
+#~ msgstr "Creați sau modificați etapele"
+
+#~ msgid ""
+#~ ":ref:`Developer mode <developer-mode>` **must** be activated to access "
+#~ "the stages menu. To activate developer mode, go "
+#~ "to :menuselection:`Settings app --> General Settings --> Developer "
+#~ "Tools`, and click :guilabel:`Activate the developer mode`."
+#~ msgstr ""
+#~ ":ref:`Modul dezvoltator <modul-dezvoltator>` **trebuie** să fie activat "
+#~ "pentru a accesa meniul etapelor. Pentru a activa modul dezvoltator, "
+#~ "accesați :menuselection:`Settings app --> General Settings --> Developer "
+#~ "Tools` și faceți clic pe :guilabel:`Activate the developer mode`."
+
+#~ msgid ""
+#~ "To view or modify **Helpdesk** stages, go to :menuselection:`Helpdesk app "
+#~ "--> Configuration --> Stages`."
+#~ msgstr ""
+#~ "Pentru a vizualiza sau modifica etapele **Helpdesk**, "
+#~ "accesează :menuselection:`Aplicația Helpdesk --> Configurare --> Etape`."
+
+#~ msgid ""
+#~ "The default list view on the :guilabel:`Stages` page displays the stages "
+#~ "currently available in the **Helpdesk** app. They are listed in the order "
+#~ "they appear in the pipeline."
+#~ msgstr ""
+#~ "Vizualizarea implicită de tip listă din pagina :guilabel:`Etape` afișează "
+#~ "etapele disponibile în prezent în aplicația **Helpdesk**. Acestea sunt "
+#~ "listate în ordinea în care apar în flux."
+
+#~ msgid ""
+#~ "To change the order of the stages, click the :icon:`oi-"
+#~ "draggable` :guilabel:`(draggable)` icon, to the left of the stage name, "
+#~ "and drag it to the desired place on the list."
+#~ msgstr ""
+#~ "Pentru a schimba ordinea etapelor, apasă pictograma :icon:`oi-"
+#~ "draggable` :guilabel:`(mutabil)` din stânga numelui etapei și trage-o în "
+#~ "poziția dorită din listă."
+
+#~ msgid ""
+#~ "View of the stage list page emphasizing the buttons used to change the "
+#~ "order the stages\n"
+#~ "appear in the list."
+#~ msgstr ""
+#~ "Vizualizare a paginii cu lista etapelor subliniind butoanele folosite "
+#~ "pentru a schimba ordinea etapelor\n"
+#~ "apar în listă."
+
+#~ msgid ""
+#~ "Change the stage order on the Kanban view of a **Helpdesk** team's "
+#~ "pipeline by dragging and dropping individual columns."
+#~ msgstr ""
+#~ "Schimbă ordinea etapelor în vizualizarea Kanban a fluxului unei echipe "
+#~ "**Helpdesk** prin glisarea și plasarea coloanelor individuale."
+
+#~ msgid ""
+#~ "To create a new stage, click the :guilabel:`New` button at the top-left "
+#~ "of the stage list. Doing so reveals a blank stage form."
+#~ msgstr ""
+#~ "Pentru a crea o etapă nouă, faceți clic pe butonul :guilabel:`Nou` din "
+#~ "partea stângă sus a listei de etape. Procedând astfel, dezvăluie o formă "
+#~ "de scenă goală."
+
+#~ msgid "Choose a :guilabel:`Name` for the new stage."
+#~ msgstr "Alege un :guilabel:`Nume` pentru noua etapă."
+
+#~ msgid "View of a stage's settings page in Odoo Helpdesk."
+#~ msgstr "Vizualizarea paginii de setări a unei scene din Odoo Helpdesk."
+
+#~ msgid "Add email and SMS templates to stages"
+#~ msgstr "Adăugați șabloane de e-mail și SMS la etape"
+
+#~ msgid ""
+#~ "When an :guilabel:`Email Template` is added to a stage, a preconfigured "
+#~ "email is automatically sent to the customer when a ticket reaches that "
+#~ "specific stage in the pipeline. Likewise, adding an :guilabel:`SMS "
+#~ "Template` triggers a preconfigured SMS text message to send to the "
+#~ "customer."
+#~ msgstr ""
+#~ "Când un :guilabel:`Șablon email` este adăugat la o etapă, un email "
+#~ "preconfigurat este trimis automat clientului când un tichet ajunge la "
+#~ "acea etapă din flux. Similar, adăugarea unui :guilabel:`Șablon SMS` "
+#~ "declanșează trimiterea unui mesaj SMS preconfigurat către client."
+
+#~ msgid ""
+#~ "SMS text messaging is an :doc:`In-App Purchase (IAP) </applications/"
+#~ "essentials/in_app_purchase/>` service that requires prepaid credits to "
+#~ "work. Refer to `SMS Pricing FAQ <https://iap-services.odoo.com/iap/sms/"
+#~ "pricing>`_ for additional information."
+#~ msgstr ""
+#~ "Trimiterea de SMS-uri este un serviciu :doc:`In-App Purchase (IAP) </"
+#~ "applications/essentials/in_app_purchase/>` care necesită credite "
+#~ "preplătite. Consultă `Întrebări frecvente despre prețurile SMS <https://"
+#~ "iap-services.odoo.com/iap/sms/pricing>`_ pentru informații suplimentare."
+
+#~ msgid ""
+#~ "To select an existing email template, select it from the :guilabel:`Email "
+#~ "Template` field. After choosing a template, click on the :icon:`oi-arrow-"
+#~ "right` :guilabel:`(right arrow)` icon to the right of the field to edit "
+#~ "the chosen template."
+#~ msgstr ""
+#~ "Pentru a selecta un șablon de email existent, alege-l din "
+#~ "câmpul :guilabel:`Șablon email`. După ce ai ales un șablon, apasă "
+#~ "pictograma :icon:`oi-arrow-right` :guilabel:`(săgeată dreapta)` din "
+#~ "dreapta câmpului pentru a edita șablonul ales."
+
+#~ msgid ""
+#~ "To create a new template from this form, click the field, and enter a "
+#~ "title for the new template. Then, select :guilabel:`Create and edit` from "
+#~ "the drop-down menu that appears, and complete the form details."
+#~ msgstr ""
+#~ "Pentru a crea un șablon nou din acest formular, apasă pe câmp și introdu "
+#~ "un titlu pentru noul șablon. Apoi selectează :guilabel:`Creează și "
+#~ "editează` din meniul derulant care apare și completează detaliile "
+#~ "formularului."
+
+#~ msgid ""
+#~ "Follow the same steps to select, edit, or create an :guilabel:`SMS "
+#~ "Template`."
+#~ msgstr ""
+#~ "Urmați aceiași pași pentru a selecta, edita sau crea un :guilabel:`Șablon "
+#~ "SMS`."
+
+#~ msgid "View of an SMS template setup page in Odoo Helpdesk."
+#~ msgstr ""
+#~ "Vizualizare a paginii de configurare a unui șablon SMS în Odoo Helpdesk."
+
+#~ msgid ":doc:`/applications/general/companies/email_template`"
+#~ msgstr ":doc:`/aplicații/general/companii/șablon_email`"
+
+#~ msgid "Fold a stage"
+#~ msgstr "Îndoiți o scenă"
+
+#~ msgid ""
+#~ "By default, stages are unfolded in the Kanban view of either tickets "
+#~ "dashboard: :guilabel:`My Tickets` (:menuselection:`Helpdesk app --> "
+#~ "Tickets --> My Tickets`) or :guilabel:`All Tickets` "
+#~ "(:menuselection:`Helpdesk app --> Tickets --> All Tickets`)."
+#~ msgstr ""
+#~ "În mod implicit, etapele sunt desfășurate în vizualizarea Kanban a "
+#~ "tabloului de bord pentru bilete: :guilabel:`Biletele mele` "
+#~ "(:menuselection:`Aplicația Helpdesk --> Bilete --> Biletele mele`) "
+#~ "sau :guilabel:`Toate biletele` (: menuselection:`Aplicația Helpdesk --> "
+#~ "Bilete --> Toate biletele`)."
+
+#~ msgid ""
+#~ "Tickets in an unfolded stage are visible in the pipeline under the stage "
+#~ "name, and are considered *open*."
+#~ msgstr ""
+#~ "Biletele într-o etapă desfășurată sunt vizibile sub numele de scenă și "
+#~ "sunt considerate *deschise*."
+
+#~ msgid ""
+#~ "Stages can be configured to be folded in the Kanban view of a tickets "
+#~ "page."
+#~ msgstr ""
+#~ "Etapele pot fi configurate să fie restrânse în vizualizarea Kanban a "
+#~ "paginii de tichete."
+
+#~ msgid ""
+#~ "The name of the folded stages are still visible, but the tickets in the "
+#~ "stage are hidden from view."
+#~ msgstr ""
+#~ "Numele etapelor restrânse rămâne vizibil, dar tichetele din acea etapă "
+#~ "sunt ascunse din vizualizare."
+
+#~ msgid ""
+#~ "To fold a stage, tick the :guilabel:`Folded in Kanban` checkbox on "
+#~ "the :guilabel:`Stages` form."
+#~ msgstr ""
+#~ "Pentru a restrânge o etapă, bifează opțiunea :guilabel:`Restrânsă în "
+#~ "Kanban` din formularul :guilabel:`Etape`."
+
+#~ msgid ""
+#~ "Tickets that reach a *folded* stage are considered *closed*. Closing a "
+#~ "ticket before the work is completed can result in reporting and "
+#~ "communication issues. This setting should **only** be enabled for stages "
+#~ "that are considered *closing* stages."
+#~ msgstr ""
+#~ "Biletele care ajung într-o etapă *pliată* sunt considerate *închise*. "
+#~ "Închiderea unui bilet înainte de finalizarea lucrării poate duce la "
+#~ "probleme de raportare și comunicare. Această setare ar trebui **numai** "
+#~ "să fie activată pentru etapele care sunt considerate etape de *închidere*."
+
+#~ msgid "Temporarily fold a stage"
+#~ msgstr "Restrânge temporar o etapă"
+
+#~ msgid ""
+#~ "Stages can be temporarily folded in the Kanban view of the tickets "
+#~ "pipeline, as well."
+#~ msgstr ""
+#~ "Etapele pot fi pliate temporar și în vizualizarea Kanban a conductei de "
+#~ "bilete."
+
+#~ msgid ""
+#~ "View a specific team's pipeline by navigating to :menuselection:`Helpdesk "
+#~ "app`, and clicking the team's Kanban card."
+#~ msgstr ""
+#~ "Vizualizați canalul unei anumite echipe navigând "
+#~ "la :menuselection:`Aplicația Helpdesk` și făcând clic pe cardul Kanban al "
+#~ "echipei."
+
+#~ msgid ""
+#~ "Hover the cursor at the top of the desired stage to fold temporarily, "
+#~ "then click the :icon:`fa-gear` :guilabel:`(gear)` icon that appears, and "
+#~ "select :guilabel:`Fold` from the drop-down menu."
+#~ msgstr ""
+#~ "Plasează cursorul în partea de sus a etapei dorite pentru a o restrânge "
+#~ "temporar, apoi apasă pictograma :icon:`fa-gear` :guilabel:`(rotiță)` care "
+#~ "apare și selectează :guilabel:`Restrânge` din meniul derulant."
+
+#~ msgid ""
+#~ "Kanban view of a Helpdesk stage, with the temporary fold option "
+#~ "emphasized."
+#~ msgstr ""
+#~ "Vedere Kanban a unei etape Helpdesk, cu opțiunea de pliere temporară "
+#~ "accentuată."
+
+#~ msgid ""
+#~ "Manually folding a stage from the Kanban view is temporary and does "
+#~ "**not** close the tickets in the stage."
+#~ msgstr ""
+#~ "Plierea manuală a unei scene din vizualizarea Kanban este temporară și "
+#~ "**nu** închide biletele în scenă."
+
+#~ msgid "Assign stages to a team"
+#~ msgstr "Atribuiți etape unei echipe"
+
+#~ msgid ""
+#~ "Make a selection in the :guilabel:`Helpdesk Teams` field on "
+#~ "the :guilabel:`Stages` form. More than one team may be selected, since "
+#~ "the same stage can be assigned to multiple teams."
+#~ msgstr ""
+#~ "Faceți o selecție în câmpul :guilabel:`Helpdesk Teams` din "
+#~ "formularul :guilabel:`Stages`. Pot fi selectate mai multe echipe, "
+#~ "deoarece aceeași etapă poate fi atribuită mai multor echipe."
+
+#~ msgid ""
+#~ ":ref:`Payroll documentation on working schedules <payroll/working-times>`"
+#~ msgstr ""
+#~ ":ref:`Documentația de salarizare privind programul de lucru <payroll/"
+#~ "working-times>`"
+
+#~ msgid ""
+#~ "To create a shift template, click :guilabel:`New` on any schedule, then "
+#~ "fill in the :ref:`details of the shift <planning/create-shift>`. In order "
+#~ "for the shift to be saved as a template, tick :guilabel:`Save as "
+#~ "Template`."
+#~ msgstr ""
+#~ "Pentru a crea un șablon de tură, faceți clic pe :guilabel:`Nou` în orice "
+#~ "program, apoi completați :ref:`detaliile turei <planning/create-shift>`. "
+#~ "Pentru ca schimbarea să fie salvată ca șablon, bifați :guilabel:`Salvare "
+#~ "ca șablon`."
+
+#~ msgid "Shift form with the option `save template` ticked."
+#~ msgstr "Schimbați formularul cu opțiunea `salvare șablon` bifată."
+
+#~ msgid ""
+#~ "Alternatively, you can go to :menuselection:`Planning --> Configuration --"
+#~ "> Shift Templates`, then click :guilabel:`New`. Fill in "
+#~ "the :guilabel:`Start Hour` and :guilabel:`Shift Duration`. The "
+#~ "shift’s :guilabel:`End Time` is then calculated based on "
+#~ "the :guilabel:`Working Hours`, taking into account working time as well "
+#~ "as breaks."
+#~ msgstr ""
+#~ "Alternativ, puteți merge la :menuselection:`Planificare --> Configurare --"
+#~ "> Șabloane de schimb`, apoi faceți clic pe :guilabel:`Nou`. "
+#~ "Completați :guilabel:`Ora de început` și :guilabel:`Durata "
+#~ "schimbului`. :guilabel:`Ora de încheiere` a schimbului este apoi "
+#~ "calculată pe baza :guilabel:`Orele de lucru`, luând în considerare timpul "
+#~ "de lucru, precum și pauzele."
+
+#~ msgid ""
+#~ ":guilabel:`Repeat`: Tick the checkbox and configure the :guilabel:`Repeat "
+#~ "Every` field according to your needs. The following rules apply to "
+#~ "recurring shifts:"
+#~ msgstr ""
+#~ ":guilabel:`Repetați`: Bifați caseta de selectare și configurați "
+#~ "câmpul :guilabel:`Repetați fiecare` în funcție de nevoile dvs. "
+#~ "Următoarele reguli se aplică schimburilor recurente:"
+
+#~ msgid ""
+#~ ":guilabel:`Save as Template`: When this option is ticked, a shift "
+#~ "template is created with the same :guilabel:`Start and End "
+#~ "hours`, :guilabel:`Allocated time`, :guilabel:`Role`, "
+#~ "and :guilabel:`Project`."
+#~ msgstr ""
+#~ ":guilabel:`Salvează ca șablon`: Când această opțiune este bifată, este "
+#~ "creat un șablon de tură cu aceleași :guilabel:`Ore de început și de "
+#~ "sfârșit`, :guilabel:`Timp alocat`, :guilabel:`Rol` și : "
+#~ "guilabel:`Proiect`."

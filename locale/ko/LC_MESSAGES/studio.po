@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Odoo S.A.
 # This file is distributed under the same license as the Odoo package.
-# "Kwanghee Park (kwpa)" <kwpa@odoo.com>, 2025.
+# "Kwanghee Park (kwpa)" <kwpa@odoo.com>, 2025, 2026.
 #
 # Translators:
 # Wil Odoo, 2025
@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-17 08:58+0000\n"
-"PO-Revision-Date: 2025-10-14 22:50+0000\n"
+"POT-Creation-Date: 2025-12-19 18:31+0000\n"
+"PO-Revision-Date: 2026-01-15 23:11+0000\n"
 "Last-Translator: \"Kwanghee Park (kwpa)\" <kwpa@odoo.com>\n"
 "Language-Team: Korean <https://translate.odoo.com/projects/odoo-18-doc/"
 "studio/ko/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #: ../../content/applications/studio.rst:6
 msgid "Studio"
@@ -248,7 +248,7 @@ msgstr ""
 "버튼에 대한 승인 규칙을 지정하면, **사용자 아바타** 아이콘이 각 승인 단계별"
 "로 버튼의 라벨 옆에 표시됩니다. 아이콘을 클릭하면 해당하는 단계가 표시됩니다."
 
-#: ../../content/applications/studio/approval_rules.rst:-1
+#: ../../content/applications/studio/approval_rules.rst:None
 msgid "Confirm button with two approval steps"
 msgstr "두 가지 승인 단계가 표시되어 있는 확인 버튼"
 
@@ -417,7 +417,7 @@ msgstr ""
 
 #: ../../content/applications/studio/automated_actions.rst:0
 msgid "Example of an automation rule on the Subscription model"
-msgstr ""
+msgstr "구독 모델에 대한 자동화 규칙의 예시"
 
 #: ../../content/applications/studio/automated_actions.rst:37
 msgid ""
@@ -593,7 +593,7 @@ msgstr ""
 
 #: ../../content/applications/studio/automated_actions.rst:120
 msgid "Select the trigger, then select a value if required."
-msgstr ""
+msgstr "필요한 경우 트리거를 선택한 다음 값을 선택합니다."
 
 #: ../../content/applications/studio/automated_actions.rst:125
 msgid "Email Events"
@@ -713,7 +713,7 @@ msgid ""
 msgstr ""
 
 #: ../../content/applications/studio/automated_actions.rst:0
-#: ../../content/applications/studio/automated_actions.rst:-1
+#: ../../content/applications/studio/automated_actions.rst:None
 msgid "Example of a Based on date field trigger"
 msgstr "날짜 필드 기준 트리거 예시"
 
@@ -1301,8 +1301,8 @@ msgstr "Odoo에서 웹훅 생성하기"
 #: ../../content/applications/studio/automated_actions/webhooks.rst:38
 msgid ""
 "Before implementing a webhook in a live database, configure and test it "
-"using a :ref:`duplicate database <odoo_online/database-management>` to "
-"ensure the webhook performs as intended."
+"using a :ref:`duplicate database <odoo-online/duplicate>` to ensure the "
+"webhook performs as intended."
 msgstr ""
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:42
@@ -1334,17 +1334,19 @@ msgstr ""
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:52
 msgid "To create a webhook in **Studio**, proceed as follows:"
-msgstr ""
+msgstr "**스튜디오** 에서 웹훅을 생성하려면 다음과 같이 진행합니다:"
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:54
 msgid ""
 ":ref:`Open Studio <studio/access>` and click :guilabel:`Webhooks`, "
 "then :guilabel:`New`."
 msgstr ""
+":ref:`스튜디오 앱을 실행한 후 <studio/access>` :guilabel:`웹훅` 을 클릭하"
+"고 :guilabel:`신규` 를 클릭하세요."
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:55
 msgid "Give the webhook a clear, meaningful name that identifies its purpose."
-msgstr ""
+msgstr "웹훅의 목적을 나타낼 수 있도록 의미 있는 명확한 이름을 지정합니다."
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:56
 msgid ""
@@ -1521,7 +1523,7 @@ msgstr ""
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:134
 msgid "Implement a webhook in an external system"
-msgstr ""
+msgstr "외부 시스템에 웹훅 구현하기"
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:136
 msgid ""
@@ -1569,7 +1571,7 @@ msgstr "웹훅 생성하기"
 #: ../../content/applications/studio/automated_actions/webhooks.rst:161
 #: ../../content/applications/studio/automated_actions/webhooks.rst:223
 msgid "To create this webhook, proceed as follows:"
-msgstr ""
+msgstr "이 웹훅을 생성하려면 다음 단계에 따라 진행합니다:"
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:163
 msgid ""
@@ -1583,12 +1585,16 @@ msgid ""
 "Click :guilabel:`New`. The :guilabel:`Trigger` is set to :guilabel:`On "
 "webhook` by default."
 msgstr ""
+":guilabel:`새로 만들기` 를 클릭합니다. 기본적으로 :guilabel:`트리거` 기능은 "
+":guilabel:`웹훅 동작 시`로 설정됩니다."
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:166
 msgid ""
 "Set the :guilabel:`Target Record` to "
 "`model.env[payload.get('model')].browse(int(payload.get('id')))`, where:"
 msgstr ""
+":guilabel:`대상 레코드` 를 "
+"`model.env[payload.get('model')].browse(int(payload.get('id')))`로 설정한 후:"
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:169
 msgid ""
@@ -1617,7 +1623,7 @@ msgstr ":guilabel:`활동 추가` 를 클릭합니다."
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:178
 msgid "In the :guilabel:`Type` section, click :guilabel:`Update Record`."
-msgstr ""
+msgstr ":guilabel:`유형` 섹션에서 :guilabel:`레코드 업데이트` 를 클릭합니다."
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:179
 msgid ""
@@ -1638,7 +1644,7 @@ msgstr "웹훅 테스트"
 #: ../../content/applications/studio/automated_actions/webhooks.rst:186
 #: ../../content/applications/studio/automated_actions/webhooks.rst:261
 msgid "To test this webhook, proceed as follows:"
-msgstr ""
+msgstr "이 웹훅을 테스트하려면 다음과 같이 진행합니다:"
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:188
 msgid ""
@@ -1713,7 +1719,7 @@ msgstr ""
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:232
 msgid "In the :guilabel:`Type` section, click :guilabel:`Execute Code`."
-msgstr ""
+msgstr ":guilabel:`유형` 섹션에서 :guilabel:`코드 실행` 을 클릭합니다."
 
 #: ../../content/applications/studio/automated_actions/webhooks.rst:233
 msgid ""
@@ -3238,7 +3244,7 @@ msgstr ""
 msgid "Click the :guilabel:`Export` button to download the ZIP file."
 msgstr ":guilabel:`내보내기` 버튼을 클릭하여 ZIP 파일을 다운로드합니다."
 
-#: ../../content/applications/studio/models_modules_apps.rst:-1
+#: ../../content/applications/studio/models_modules_apps.rst:None
 msgid "Choosing to export both data and demo data"
 msgstr "데이터 및 데모 데이터를 모두 내보내기로 선택하기"
 
@@ -3677,7 +3683,7 @@ msgid ""
 "conditions. Click on the block to view the conditions."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "View conditions applied to a block."
 msgstr "블록에 적용되어 있는 조건을 확인합니다."
 
@@ -3688,7 +3694,7 @@ msgstr ""
 "값을 선택하여 출력 내용을 미리 보기로 확인한 후 필요한 경우 수정할 수 있습니"
 "다."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Preview the output of another condition."
 msgstr "다른 조건의 출력을 미리 봅니다."
 
@@ -3759,7 +3765,7 @@ msgstr ""
 "화살표를 클릭하면 필드 목록에 액세스할 수 있습니다. 그런 다음 레코드에서 필드"
 "가 완료되지 않은 경우 표시될 기본값을 지정하고 `엔터` 를 누릅니다."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "Select a related field."
 msgstr "관련된 필드를 선택하세요."
 
@@ -3822,7 +3828,7 @@ msgid ""
 "click the purple rectangle and select an option."
 msgstr ""
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available options for editing table structure."
 msgstr "표 구조 편집에 사용할 수 있는 옵션 목록입니다."
 
@@ -3897,7 +3903,7 @@ msgstr ""
 "<studio/pdf-reports/add-field>` 를 추가합니다. 대화 상자가 열리면 필드의 소"
 "스 개체(예: *주문 내역* 모델)와 사용 가능한 필드 목록이 표시됩니다."
 
-#: ../../content/applications/studio/pdf_reports.rst:-1
+#: ../../content/applications/studio/pdf_reports.rst:None
 msgid "List of available fields for the sale order lines model."
 msgstr "판매주문서 라인 모델에 사용 가능한 필드 목록입니다."
 
